@@ -4,25 +4,25 @@ import re
 from xml.sax.saxutils import escape
 from zoneinfo import ZoneInfo
 
-API_KEY = "185f668365a14c6dade238bd621d5a13"  # Replace with your API token
+API_KEY = "185f668365a14c6dade238bd621d5a13"
 PL_COMPETITION_ID = "PL"
 UK_TZ = ZoneInfo("Europe/London")
 
 def sanitize_id(name: str) -> str:
-    """Creates a clean, XML-safe ID without '&' or special characters."""
+    """Standardizes club names to predictable XML channel IDs."""
     clean = name.lower()
     clean = clean.replace("&", "and")
+    clean = re.sub(r"\b(afc|fc)\b", "", clean)
     clean = re.sub(r"[^a-z0-9]", "", clean)
-    clean = clean.replace("fc", "")
     return clean.strip()
 
 def format_xmltv_time(dt: datetime.datetime) -> str:
-    """Formats datetime into standard XMLTV: YYYYMMDDHHMMSS +0100 / +0000"""
+    """Formats datetime into XMLTV standard: YYYYMMDDHHMMSS +0100 / +0000"""
     return dt.strftime("%Y%m%d%H%M%S %z")
 
 headers = {"X-Auth-Token": API_KEY}
 
-# 1. Fetch Matches
+# 1. Fetch Season Matches
 url_matches = f"https://api.football-data.org/v4/competitions/{PL_COMPETITION_ID}/matches"
 resp = requests.get(url_matches, headers=headers)
 
@@ -34,7 +34,7 @@ else:
 
 now_uk = datetime.datetime.now(UK_TZ)
 
-# Keep only upcoming matches or matches happening today
+# Filter for upcoming matches
 upcoming_matches = []
 for m in matches_raw:
     utc_str = m.get("utcDate")
@@ -43,20 +43,19 @@ for m in matches_raw:
     utc_dt = datetime.datetime.fromisoformat(utc_str.replace("Z", "+00:00"))
     match_end = utc_dt.astimezone(UK_TZ) + datetime.timedelta(hours=2)
     
-    # Keep matches that haven't ended yet
     if match_end > now_uk and m.get("status") not in ["FINISHED", "AWARDED"]:
         upcoming_matches.append(m)
 
-print(f"Found {len(upcoming_matches)} upcoming matches.")
+print(f"Upcoming matches found: {len(upcoming_matches)}")
 
-# 2. Extract or Fetch Teams
+# 2. Extract All Teams
 teams = {}
 for m in matches_raw:
     for side in [m["homeTeam"]["name"], m["awayTeam"]["name"]]:
         if side not in teams:
             teams[side] = sanitize_id(side)
 
-# Fallback: if no matches loaded, fetch team list directly
+# Fallback to direct teams list if matches were empty
 if not teams:
     url_teams = f"https://api.football-data.org/v4/competitions/{PL_COMPETITION_ID}/teams"
     resp_teams = requests.get(url_teams, headers=headers)
@@ -64,25 +63,24 @@ if not teams:
         for t in resp_teams.json().get("teams", []):
             teams[t["name"]] = sanitize_id(t["name"])
 
-print(f"Loaded {len(teams)} teams.")
+print(f"Teams count: {len(teams)}")
 
-# 3. Build XMLTV
+# 3. Build Full XMLTV File using .epl
 xml_lines = [
     '<?xml version="1.0" encoding="UTF-8"?>',
     '<tv generator-info-name="PL-Continuous-Fixture-EPG">'
 ]
 
-# Add Channels
+# Channel Definitions
 for name, team_id in sorted(teams.items()):
-    xml_lines.append(f'  <channel id="{team_id}.pl">')
+    xml_lines.append(f'  <channel id="{team_id}.epl">')
     xml_lines.append(f'    <display-name>{escape(name)}</display-name>')
     xml_lines.append('  </channel>')
 
-# Add Continuous Programmes
+# Continuous Schedules for EVERY team
 for team_name, team_id in sorted(teams.items()):
-    channel_id = f"{team_id}.pl"
+    channel_id = f"{team_id}.epl"
     
-    # Filter and sort this team's matches
     team_matches = [
         m for m in upcoming_matches 
         if m["homeTeam"]["name"] == team_name or m["awayTeam"]["name"] == team_name
@@ -92,7 +90,6 @@ for team_name, team_id in sorted(teams.items()):
     timeline_cursor = now_uk.replace(minute=0, second=0, microsecond=0)
 
     if not team_matches:
-        # Default placeholder if no upcoming fixture is currently scheduled
         far_future = timeline_cursor + datetime.timedelta(days=7)
         xml_lines.append(f'  <programme start="{format_xmltv_time(timeline_cursor)}" stop="{format_xmltv_time(far_future)}" channel="{channel_id}">')
         xml_lines.append(f'    <title lang="en">No Upcoming Fixture Scheduled</title>')
@@ -115,7 +112,7 @@ for team_name, team_id in sorted(teams.items()):
         ko_time_str = ko_uk.strftime("%H:%M")
         ko_date_str = ko_uk.strftime("%a %d %b")
 
-        # 24/7 Gap Filler before match
+        # 24/7 Gap filler before match
         if event_start > timeline_cursor:
             pre_start_str = format_xmltv_time(timeline_cursor)
             pre_stop_str = format_xmltv_time(event_start)
@@ -128,7 +125,7 @@ for team_name, team_id in sorted(teams.items()):
             xml_lines.append(f'    <desc lang="en">{escape(filler_desc)}</desc>')
             xml_lines.append('  </programme>')
 
-        # Live Match Window
+        # Live match window (starts 30m before kickoff)
         match_start_str = format_xmltv_time(max(event_start, timeline_cursor))
         match_stop_str = format_xmltv_time(event_end)
         
@@ -147,4 +144,4 @@ xml_lines.append('</tv>')
 with open("pl_epg.xml", "w", encoding="utf-8") as f:
     f.write("\n".join(xml_lines))
 
-print("Successfully generated pl_epg.xml")
+print("Successfully generated pl_epg.xml with .epl IDs")
