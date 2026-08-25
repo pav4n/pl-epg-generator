@@ -4,7 +4,7 @@ import re
 from xml.sax.saxutils import escape
 from zoneinfo import ZoneInfo
 
-API_KEY = "YOUR_FOOTBALL_DATA_API_KEY"  # Replace with your API token
+API_KEY = "185f668365a14c6dade238bd621d5a13"  # Replace with your API token
 PL_COMPETITION_ID = "PL"
 UK_TZ = ZoneInfo("Europe/London")
 
