@@ -141,7 +141,7 @@ for team_name, team_id in sorted(teams.items()):
 
 xml_lines.append('</tv>')
 
-with open("pl_epg.xml", "w", encoding="utf-8") as f:
+with open("pl_epg_games.xml", "w", encoding="utf-8") as f:
     f.write("\n".join(xml_lines))
 
-print("Successfully generated pl_epg.xml with .epl IDs")
+print("Successfully generated pl_epg_games.xml with .epl IDs")
