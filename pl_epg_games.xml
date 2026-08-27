@@ -60,7 +60,7 @@
   <channel id="tottenhamhotspur.epl">
     <display-name>Tottenham Hotspur FC</display-name>
   </channel>
-  <programme start="20260826050000 +0100" stop="20260829143000 +0100" channel="bournemouth.epl">
+  <programme start="20260827160000 +0100" stop="20260829143000 +0100" channel="bournemouth.epl">
     <title lang="en">Next: vs Everton FC (Sat 29 Aug @ 15:00)</title>
     <desc lang="en">Upcoming: AFC Bournemouth vs Everton FC. Kickoff at 15:00 UK on Sat 29 Aug.</desc>
   </programme>
@@ -356,7 +356,7 @@
     <title lang="en">LIVE: Liverpool FC vs AFC Bournemouth</title>
     <desc lang="en">Premier League Matchday 38 - Kickoff 16:00 UK (Sun 30 May).</desc>
   </programme>
-  <programme start="20260826050000 +0100" stop="20260831193000 +0100" channel="arsenal.epl">
+  <programme start="20260827160000 +0100" stop="20260831193000 +0100" channel="arsenal.epl">
     <title lang="en">Next: vs @Aston Villa FC (Mon 31 Aug @ 20:00)</title>
     <desc lang="en">Upcoming: Aston Villa FC vs Arsenal FC. Kickoff at 20:00 UK on Mon 31 Aug.</desc>
   </programme>
@@ -652,7 +652,7 @@
     <title lang="en">LIVE: Arsenal FC vs Brighton &amp; Hove Albion FC</title>
     <desc lang="en">Premier League Matchday 38 - Kickoff 16:00 UK (Sun 30 May).</desc>
   </programme>
-  <programme start="20260826050000 +0100" stop="20260831193000 +0100" channel="astonvilla.epl">
+  <programme start="20260827160000 +0100" stop="20260831193000 +0100" channel="astonvilla.epl">
     <title lang="en">Next: vs Arsenal FC (Mon 31 Aug @ 20:00)</title>
     <desc lang="en">Upcoming: Aston Villa FC vs Arsenal FC. Kickoff at 20:00 UK on Mon 31 Aug.</desc>
   </programme>
@@ -948,7 +948,7 @@
     <title lang="en">LIVE: Aston Villa FC vs Tottenham Hotspur FC</title>
     <desc lang="en">Premier League Matchday 38 - Kickoff 16:00 UK (Sun 30 May).</desc>
   </programme>
-  <programme start="20260826050000 +0100" stop="20260830133000 +0100" channel="brentford.epl">
+  <programme start="20260827160000 +0100" stop="20260830133000 +0100" channel="brentford.epl">
     <title lang="en">Next: vs @Leeds United FC (Sun 30 Aug @ 14:00)</title>
     <desc lang="en">Upcoming: Leeds United FC vs Brentford FC. Kickoff at 14:00 UK on Sun 30 Aug.</desc>
   </programme>
@@ -1244,7 +1244,7 @@
     <title lang="en">LIVE: Chelsea FC vs Brentford FC</title>
     <desc lang="en">Premier League Matchday 38 - Kickoff 16:00 UK (Sun 30 May).</desc>
   </programme>
-  <programme start="20260826050000 +0100" stop="20260830133000 +0100" channel="brightonandhovealbion.epl">
+  <programme start="20260827160000 +0100" stop="20260830133000 +0100" channel="brightonandhovealbion.epl">
     <title lang="en">Next: vs @Chelsea FC (Sun 30 Aug @ 14:00)</title>
     <desc lang="en">Upcoming: Chelsea FC vs Brighton &amp; Hove Albion FC. Kickoff at 14:00 UK on Sun 30 Aug.</desc>
   </programme>
@@ -1540,7 +1540,7 @@
     <title lang="en">LIVE: Arsenal FC vs Brighton &amp; Hove Albion FC</title>
     <desc lang="en">Premier League Matchday 38 - Kickoff 16:00 UK (Sun 30 May).</desc>
   </programme>
-  <programme start="20260826050000 +0100" stop="20260830133000 +0100" channel="chelsea.epl">
+  <programme start="20260827160000 +0100" stop="20260830133000 +0100" channel="chelsea.epl">
     <title lang="en">Next: vs Brighton &amp; Hove Albion FC (Sun 30 Aug @ 14:00)</title>
     <desc lang="en">Upcoming: Chelsea FC vs Brighton &amp; Hove Albion FC. Kickoff at 14:00 UK on Sun 30 Aug.</desc>
   </programme>
@@ -1836,7 +1836,7 @@
     <title lang="en">LIVE: Chelsea FC vs Brentford FC</title>
     <desc lang="en">Premier League Matchday 38 - Kickoff 16:00 UK (Sun 30 May).</desc>
   </programme>
-  <programme start="20260826050000 +0100" stop="20260829143000 +0100" channel="coventrycity.epl">
+  <programme start="20260827160000 +0100" stop="20260829143000 +0100" channel="coventrycity.epl">
     <title lang="en">Next: vs Hull City AFC (Sat 29 Aug @ 15:00)</title>
     <desc lang="en">Upcoming: Coventry City FC vs Hull City AFC. Kickoff at 15:00 UK on Sat 29 Aug.</desc>
   </programme>
@@ -2132,7 +2132,7 @@
     <title lang="en">LIVE: Coventry City FC vs Nottingham Forest FC</title>
     <desc lang="en">Premier League Matchday 38 - Kickoff 16:00 UK (Sun 30 May).</desc>
   </programme>
-  <programme start="20260826050000 +0100" stop="20260828193000 +0100" channel="crystalpalace.epl">
+  <programme start="20260827160000 +0100" stop="20260828193000 +0100" channel="crystalpalace.epl">
     <title lang="en">Next: vs Manchester City FC (Fri 28 Aug @ 20:00)</title>
     <desc lang="en">Upcoming: Crystal Palace FC vs Manchester City FC. Kickoff at 20:00 UK on Fri 28 Aug.</desc>
   </programme>
@@ -2428,7 +2428,7 @@
     <title lang="en">LIVE: Crystal Palace FC vs Leeds United FC</title>
     <desc lang="en">Premier League Matchday 38 - Kickoff 16:00 UK (Sun 30 May).</desc>
   </programme>
-  <programme start="20260826050000 +0100" stop="20260829143000 +0100" channel="everton.epl">
+  <programme start="20260827160000 +0100" stop="20260829143000 +0100" channel="everton.epl">
     <title lang="en">Next: vs @AFC Bournemouth (Sat 29 Aug @ 15:00)</title>
     <desc lang="en">Upcoming: AFC Bournemouth vs Everton FC. Kickoff at 15:00 UK on Sat 29 Aug.</desc>
   </programme>
@@ -2724,7 +2724,7 @@
     <title lang="en">LIVE: Ipswich Town FC vs Everton FC</title>
     <desc lang="en">Premier League Matchday 38 - Kickoff 16:00 UK (Sun 30 May).</desc>
   </programme>
-  <programme start="20260826050000 +0100" stop="20260830133000 +0100" channel="fulham.epl">
+  <programme start="20260827160000 +0100" stop="20260830133000 +0100" channel="fulham.epl">
     <title lang="en">Next: vs @Sunderland AFC (Sun 30 Aug @ 14:00)</title>
     <desc lang="en">Upcoming: Sunderland AFC vs Fulham FC. Kickoff at 14:00 UK on Sun 30 Aug.</desc>
   </programme>
@@ -3020,7 +3020,7 @@
     <title lang="en">LIVE: Manchester United FC vs Fulham FC</title>
     <desc lang="en">Premier League Matchday 38 - Kickoff 16:00 UK (Sun 30 May).</desc>
   </programme>
-  <programme start="20260826050000 +0100" stop="20260829143000 +0100" channel="hullcity.epl">
+  <programme start="20260827160000 +0100" stop="20260829143000 +0100" channel="hullcity.epl">
     <title lang="en">Next: vs @Coventry City FC (Sat 29 Aug @ 15:00)</title>
     <desc lang="en">Upcoming: Coventry City FC vs Hull City AFC. Kickoff at 15:00 UK on Sat 29 Aug.</desc>
   </programme>
@@ -3316,7 +3316,7 @@
     <title lang="en">LIVE: Hull City AFC vs Newcastle United FC</title>
     <desc lang="en">Premier League Matchday 38 - Kickoff 16:00 UK (Sun 30 May).</desc>
   </programme>
-  <programme start="20260826050000 +0100" stop="20260830160000 +0100" channel="ipswichtown.epl">
+  <programme start="20260827160000 +0100" stop="20260830160000 +0100" channel="ipswichtown.epl">
     <title lang="en">Next: vs @Manchester United FC (Sun 30 Aug @ 16:30)</title>
     <desc lang="en">Upcoming: Manchester United FC vs Ipswich Town FC. Kickoff at 16:30 UK on Sun 30 Aug.</desc>
   </programme>
@@ -3612,7 +3612,7 @@
     <title lang="en">LIVE: Ipswich Town FC vs Everton FC</title>
     <desc lang="en">Premier League Matchday 38 - Kickoff 16:00 UK (Sun 30 May).</desc>
   </programme>
-  <programme start="20260826050000 +0100" stop="20260830133000 +0100" channel="leedsunited.epl">
+  <programme start="20260827160000 +0100" stop="20260830133000 +0100" channel="leedsunited.epl">
     <title lang="en">Next: vs Brentford FC (Sun 30 Aug @ 14:00)</title>
     <desc lang="en">Upcoming: Leeds United FC vs Brentford FC. Kickoff at 14:00 UK on Sun 30 Aug.</desc>
   </programme>
@@ -3908,7 +3908,7 @@
     <title lang="en">LIVE: Crystal Palace FC vs Leeds United FC</title>
     <desc lang="en">Premier League Matchday 38 - Kickoff 16:00 UK (Sun 30 May).</desc>
   </programme>
-  <programme start="20260826050000 +0100" stop="20260829120000 +0100" channel="liverpool.epl">
+  <programme start="20260827160000 +0100" stop="20260829120000 +0100" channel="liverpool.epl">
     <title lang="en">Next: vs Nottingham Forest FC (Sat 29 Aug @ 12:30)</title>
     <desc lang="en">Upcoming: Liverpool FC vs Nottingham Forest FC. Kickoff at 12:30 UK on Sat 29 Aug.</desc>
   </programme>
@@ -4204,7 +4204,7 @@
     <title lang="en">LIVE: Liverpool FC vs AFC Bournemouth</title>
     <desc lang="en">Premier League Matchday 38 - Kickoff 16:00 UK (Sun 30 May).</desc>
   </programme>
-  <programme start="20260826050000 +0100" stop="20260828193000 +0100" channel="manchestercity.epl">
+  <programme start="20260827160000 +0100" stop="20260828193000 +0100" channel="manchestercity.epl">
     <title lang="en">Next: vs @Crystal Palace FC (Fri 28 Aug @ 20:00)</title>
     <desc lang="en">Upcoming: Crystal Palace FC vs Manchester City FC. Kickoff at 20:00 UK on Fri 28 Aug.</desc>
   </programme>
@@ -4500,7 +4500,7 @@
     <title lang="en">LIVE: Sunderland AFC vs Manchester City FC</title>
     <desc lang="en">Premier League Matchday 38 - Kickoff 16:00 UK (Sun 30 May).</desc>
   </programme>
-  <programme start="20260826050000 +0100" stop="20260830160000 +0100" channel="manchesterunited.epl">
+  <programme start="20260827160000 +0100" stop="20260830160000 +0100" channel="manchesterunited.epl">
     <title lang="en">Next: vs Ipswich Town FC (Sun 30 Aug @ 16:30)</title>
     <desc lang="en">Upcoming: Manchester United FC vs Ipswich Town FC. Kickoff at 16:30 UK on Sun 30 Aug.</desc>
   </programme>
@@ -4796,7 +4796,7 @@
     <title lang="en">LIVE: Manchester United FC vs Fulham FC</title>
     <desc lang="en">Premier League Matchday 38 - Kickoff 16:00 UK (Sun 30 May).</desc>
   </programme>
-  <programme start="20260826050000 +0100" stop="20260829170000 +0100" channel="newcastleunited.epl">
+  <programme start="20260827160000 +0100" stop="20260829170000 +0100" channel="newcastleunited.epl">
     <title lang="en">Next: vs @Tottenham Hotspur FC (Sat 29 Aug @ 17:30)</title>
     <desc lang="en">Upcoming: Tottenham Hotspur FC vs Newcastle United FC. Kickoff at 17:30 UK on Sat 29 Aug.</desc>
   </programme>
@@ -5092,7 +5092,7 @@
     <title lang="en">LIVE: Hull City AFC vs Newcastle United FC</title>
     <desc lang="en">Premier League Matchday 38 - Kickoff 16:00 UK (Sun 30 May).</desc>
   </programme>
-  <programme start="20260826050000 +0100" stop="20260829120000 +0100" channel="nottinghamforest.epl">
+  <programme start="20260827160000 +0100" stop="20260829120000 +0100" channel="nottinghamforest.epl">
     <title lang="en">Next: vs @Liverpool FC (Sat 29 Aug @ 12:30)</title>
     <desc lang="en">Upcoming: Liverpool FC vs Nottingham Forest FC. Kickoff at 12:30 UK on Sat 29 Aug.</desc>
   </programme>
@@ -5388,7 +5388,7 @@
     <title lang="en">LIVE: Coventry City FC vs Nottingham Forest FC</title>
     <desc lang="en">Premier League Matchday 38 - Kickoff 16:00 UK (Sun 30 May).</desc>
   </programme>
-  <programme start="20260826050000 +0100" stop="20260830133000 +0100" channel="sunderland.epl">
+  <programme start="20260827160000 +0100" stop="20260830133000 +0100" channel="sunderland.epl">
     <title lang="en">Next: vs Fulham FC (Sun 30 Aug @ 14:00)</title>
     <desc lang="en">Upcoming: Sunderland AFC vs Fulham FC. Kickoff at 14:00 UK on Sun 30 Aug.</desc>
   </programme>
@@ -5684,7 +5684,7 @@
     <title lang="en">LIVE: Sunderland AFC vs Manchester City FC</title>
     <desc lang="en">Premier League Matchday 38 - Kickoff 16:00 UK (Sun 30 May).</desc>
   </programme>
-  <programme start="20260826050000 +0100" stop="20260829170000 +0100" channel="tottenhamhotspur.epl">
+  <programme start="20260827160000 +0100" stop="20260829170000 +0100" channel="tottenhamhotspur.epl">
     <title lang="en">Next: vs Newcastle United FC (Sat 29 Aug @ 17:30)</title>
     <desc lang="en">Upcoming: Tottenham Hotspur FC vs Newcastle United FC. Kickoff at 17:30 UK on Sat 29 Aug.</desc>
   </programme>
