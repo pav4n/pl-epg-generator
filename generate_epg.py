@@ -7,9 +7,11 @@ from zoneinfo import ZoneInfo
 API_KEY = "185f668365a14c6dade238bd621d5a13"
 PL_COMPETITION_ID = "PL"
 UK_TZ = ZoneInfo("Europe/London")
-CHUNK_HOURS = 2  # Standard 2-hour TV guide blocks
+CHUNK_HOURS = 2
+OUTPUT_FILE = "pl_epg_games.xml"
 
 def sanitize_id(name: str) -> str:
+    """Standardizes club names to clean channel IDs."""
     clean = name.lower()
     clean = clean.replace("&", "and")
     clean = re.sub(r"\b(afc|fc)\b", "", clean)
@@ -17,11 +19,12 @@ def sanitize_id(name: str) -> str:
     return clean.strip()
 
 def format_xmltv_time(dt: datetime.datetime) -> str:
+    """Formats datetime into standard XMLTV: YYYYMMDDHHMMSS +0100"""
     return dt.strftime("%Y%m%d%H%M%S %z")
 
 headers = {"X-Auth-Token": API_KEY}
 
-# 1. Fetch Matches
+# 1. Fetch Season Matches
 url_matches = f"https://api.football-data.org/v4/competitions/{PL_COMPETITION_ID}/matches"
 resp = requests.get(url_matches, headers=headers)
 
@@ -33,6 +36,7 @@ else:
 
 now_uk = datetime.datetime.now(UK_TZ)
 
+# Filter for upcoming matches
 upcoming_matches = []
 for m in matches_raw:
     utc_str = m.get("utcDate")
@@ -44,13 +48,16 @@ for m in matches_raw:
     if match_end > now_uk and m.get("status") not in ["FINISHED", "AWARDED"]:
         upcoming_matches.append(m)
 
-# 2. Extract Teams
+print(f"Upcoming matches found: {len(upcoming_matches)}")
+
+# 2. Extract All Teams
 teams = {}
 for m in matches_raw:
     for side in [m["homeTeam"]["name"], m["awayTeam"]["name"]]:
         if side not in teams:
             teams[side] = sanitize_id(side)
 
+# Fallback to direct teams endpoint if matches list was empty
 if not teams:
     url_teams = f"https://api.football-data.org/v4/competitions/{PL_COMPETITION_ID}/teams"
     resp_teams = requests.get(url_teams, headers=headers)
@@ -58,19 +65,21 @@ if not teams:
         for t in resp_teams.json().get("teams", []):
             teams[t["name"]] = sanitize_id(t["name"])
 
-# 3. Build XMLTV
+print(f"Teams count: {len(teams)}")
+
+# 3. Build XMLTV Structure
 xml_lines = [
     '<?xml version="1.0" encoding="UTF-8"?>',
     '<tv generator-info-name="PL-Continuous-Fixture-EPG">'
 ]
 
-# Channels
+# Channel Definitions (.epl)
 for name, team_id in sorted(teams.items()):
     xml_lines.append(f'  <channel id="{team_id}.epl">')
     xml_lines.append(f'    <display-name>{escape(name)}</display-name>')
     xml_lines.append('  </channel>')
 
-# Programmes (Chuncked in 2-hour segments)
+# Schedules (2-hour chunks)
 for team_name, team_id in sorted(teams.items()):
     channel_id = f"{team_id}.epl"
     
@@ -80,7 +89,6 @@ for team_name, team_id in sorted(teams.items()):
     ]
     team_matches.sort(key=lambda x: x["utcDate"])
 
-    # Align cursor to the start of the current hour
     timeline_cursor = now_uk.replace(minute=0, second=0, microsecond=0)
 
     if not team_matches:
@@ -123,7 +131,7 @@ for team_name, team_id in sorted(teams.items()):
             xml_lines.append('  </programme>')
             curr = nxt
 
-        # Live Match Program (30m buildup + match)
+        # Live Match Block (30m buildup + match)
         match_start_str = format_xmltv_time(max(event_start, timeline_cursor))
         match_stop_str = format_xmltv_time(event_end)
         
@@ -139,7 +147,7 @@ for team_name, team_id in sorted(teams.items()):
 
 xml_lines.append('</tv>')
 
-with open("pl_epg.xml", "w", encoding="utf-8") as f:
+with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
     f.write("\n".join(xml_lines))
 
-print("Successfully generated pl_epg.xml with 2-hour sliced blocks.")
+print(f"Successfully generated {OUTPUT_FILE}")
