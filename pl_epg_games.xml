@@ -60,54 +60,6 @@
   <channel id="tottenhamhotspur.epl">
     <display-name>Tottenham Hotspur FC</display-name>
   </channel>
-  <programme start="20260914100000 +0100" stop="20260914120000 +0100" channel="bournemouth.epl">
-    <title lang="en">Next: vs Liverpool FC (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: AFC Bournemouth vs Liverpool FC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
-  </programme>
-  <programme start="20260914120000 +0100" stop="20260914140000 +0100" channel="bournemouth.epl">
-    <title lang="en">Next: vs Liverpool FC (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: AFC Bournemouth vs Liverpool FC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
-  </programme>
-  <programme start="20260914140000 +0100" stop="20260914160000 +0100" channel="bournemouth.epl">
-    <title lang="en">Next: vs Liverpool FC (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: AFC Bournemouth vs Liverpool FC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
-  </programme>
-  <programme start="20260914160000 +0100" stop="20260914180000 +0100" channel="bournemouth.epl">
-    <title lang="en">Next: vs Liverpool FC (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: AFC Bournemouth vs Liverpool FC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
-  </programme>
-  <programme start="20260914180000 +0100" stop="20260914200000 +0100" channel="bournemouth.epl">
-    <title lang="en">Next: vs Liverpool FC (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: AFC Bournemouth vs Liverpool FC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
-  </programme>
-  <programme start="20260914200000 +0100" stop="20260914220000 +0100" channel="bournemouth.epl">
-    <title lang="en">Next: vs Liverpool FC (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: AFC Bournemouth vs Liverpool FC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
-  </programme>
-  <programme start="20260914220000 +0100" stop="20260915000000 +0100" channel="bournemouth.epl">
-    <title lang="en">Next: vs Liverpool FC (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: AFC Bournemouth vs Liverpool FC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
-  </programme>
-  <programme start="20260915000000 +0100" stop="20260915020000 +0100" channel="bournemouth.epl">
-    <title lang="en">Next: vs Liverpool FC (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: AFC Bournemouth vs Liverpool FC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
-  </programme>
-  <programme start="20260915020000 +0100" stop="20260915040000 +0100" channel="bournemouth.epl">
-    <title lang="en">Next: vs Liverpool FC (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: AFC Bournemouth vs Liverpool FC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
-  </programme>
-  <programme start="20260915040000 +0100" stop="20260915060000 +0100" channel="bournemouth.epl">
-    <title lang="en">Next: vs Liverpool FC (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: AFC Bournemouth vs Liverpool FC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
-  </programme>
-  <programme start="20260915060000 +0100" stop="20260915080000 +0100" channel="bournemouth.epl">
-    <title lang="en">Next: vs Liverpool FC (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: AFC Bournemouth vs Liverpool FC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
-  </programme>
-  <programme start="20260915080000 +0100" stop="20260915100000 +0100" channel="bournemouth.epl">
-    <title lang="en">Next: vs Liverpool FC (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: AFC Bournemouth vs Liverpool FC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
-  </programme>
   <programme start="20260915100000 +0100" stop="20260915120000 +0100" channel="bournemouth.epl">
     <title lang="en">Next: vs Liverpool FC (Sun 20 Sep @ 14:00)</title>
     <desc lang="en">Upcoming: AFC Bournemouth vs Liverpool FC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
@@ -540,57 +492,57 @@
     <title lang="en">Next: vs @Chelsea FC (Sat 10 Oct @ 15:00)</title>
     <desc lang="en">Upcoming: Chelsea FC vs AFC Bournemouth. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260924100000 +0100" stop="20260924104250 +0100" channel="bournemouth.epl">
+  <programme start="20260924100000 +0100" stop="20260924120000 +0100" channel="bournemouth.epl">
     <title lang="en">Next: vs @Chelsea FC (Sat 10 Oct @ 15:00)</title>
     <desc lang="en">Upcoming: Chelsea FC vs AFC Bournemouth. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914100000 +0100" stop="20260914120000 +0100" channel="arsenal.epl">
-    <title lang="en">Next: vs @Brighton &amp; Hove Albion FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Brighton &amp; Hove Albion FC vs Arsenal FC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260924120000 +0100" stop="20260924140000 +0100" channel="bournemouth.epl">
+    <title lang="en">Next: vs @Chelsea FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Chelsea FC vs AFC Bournemouth. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914120000 +0100" stop="20260914140000 +0100" channel="arsenal.epl">
-    <title lang="en">Next: vs @Brighton &amp; Hove Albion FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Brighton &amp; Hove Albion FC vs Arsenal FC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260924140000 +0100" stop="20260924160000 +0100" channel="bournemouth.epl">
+    <title lang="en">Next: vs @Chelsea FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Chelsea FC vs AFC Bournemouth. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914140000 +0100" stop="20260914160000 +0100" channel="arsenal.epl">
-    <title lang="en">Next: vs @Brighton &amp; Hove Albion FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Brighton &amp; Hove Albion FC vs Arsenal FC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260924160000 +0100" stop="20260924180000 +0100" channel="bournemouth.epl">
+    <title lang="en">Next: vs @Chelsea FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Chelsea FC vs AFC Bournemouth. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914160000 +0100" stop="20260914180000 +0100" channel="arsenal.epl">
-    <title lang="en">Next: vs @Brighton &amp; Hove Albion FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Brighton &amp; Hove Albion FC vs Arsenal FC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260924180000 +0100" stop="20260924200000 +0100" channel="bournemouth.epl">
+    <title lang="en">Next: vs @Chelsea FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Chelsea FC vs AFC Bournemouth. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914180000 +0100" stop="20260914200000 +0100" channel="arsenal.epl">
-    <title lang="en">Next: vs @Brighton &amp; Hove Albion FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Brighton &amp; Hove Albion FC vs Arsenal FC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260924200000 +0100" stop="20260924220000 +0100" channel="bournemouth.epl">
+    <title lang="en">Next: vs @Chelsea FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Chelsea FC vs AFC Bournemouth. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914200000 +0100" stop="20260914220000 +0100" channel="arsenal.epl">
-    <title lang="en">Next: vs @Brighton &amp; Hove Albion FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Brighton &amp; Hove Albion FC vs Arsenal FC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260924220000 +0100" stop="20260925000000 +0100" channel="bournemouth.epl">
+    <title lang="en">Next: vs @Chelsea FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Chelsea FC vs AFC Bournemouth. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914220000 +0100" stop="20260915000000 +0100" channel="arsenal.epl">
-    <title lang="en">Next: vs @Brighton &amp; Hove Albion FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Brighton &amp; Hove Albion FC vs Arsenal FC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260925000000 +0100" stop="20260925020000 +0100" channel="bournemouth.epl">
+    <title lang="en">Next: vs @Chelsea FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Chelsea FC vs AFC Bournemouth. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260915000000 +0100" stop="20260915020000 +0100" channel="arsenal.epl">
-    <title lang="en">Next: vs @Brighton &amp; Hove Albion FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Brighton &amp; Hove Albion FC vs Arsenal FC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260925020000 +0100" stop="20260925040000 +0100" channel="bournemouth.epl">
+    <title lang="en">Next: vs @Chelsea FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Chelsea FC vs AFC Bournemouth. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260915020000 +0100" stop="20260915040000 +0100" channel="arsenal.epl">
-    <title lang="en">Next: vs @Brighton &amp; Hove Albion FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Brighton &amp; Hove Albion FC vs Arsenal FC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260925040000 +0100" stop="20260925060000 +0100" channel="bournemouth.epl">
+    <title lang="en">Next: vs @Chelsea FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Chelsea FC vs AFC Bournemouth. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260915040000 +0100" stop="20260915060000 +0100" channel="arsenal.epl">
-    <title lang="en">Next: vs @Brighton &amp; Hove Albion FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Brighton &amp; Hove Albion FC vs Arsenal FC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260925060000 +0100" stop="20260925080000 +0100" channel="bournemouth.epl">
+    <title lang="en">Next: vs @Chelsea FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Chelsea FC vs AFC Bournemouth. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260915060000 +0100" stop="20260915080000 +0100" channel="arsenal.epl">
-    <title lang="en">Next: vs @Brighton &amp; Hove Albion FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Brighton &amp; Hove Albion FC vs Arsenal FC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260925080000 +0100" stop="20260925100000 +0100" channel="bournemouth.epl">
+    <title lang="en">Next: vs @Chelsea FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Chelsea FC vs AFC Bournemouth. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260915080000 +0100" stop="20260915100000 +0100" channel="arsenal.epl">
-    <title lang="en">Next: vs @Brighton &amp; Hove Albion FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Brighton &amp; Hove Albion FC vs Arsenal FC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260925100000 +0100" stop="20260925101810 +0100" channel="bournemouth.epl">
+    <title lang="en">Next: vs @Chelsea FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Chelsea FC vs AFC Bournemouth. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
   <programme start="20260915100000 +0100" stop="20260915120000 +0100" channel="arsenal.epl">
     <title lang="en">Next: vs @Brighton &amp; Hove Albion FC (Sat 19 Sep @ 15:00)</title>
@@ -1024,57 +976,57 @@
     <title lang="en">Next: vs Leeds United FC (Sat 10 Oct @ 12:30)</title>
     <desc lang="en">Upcoming: Arsenal FC vs Leeds United FC. Kickoff at 12:30 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260924090000 +0100" stop="20260924104250 +0100" channel="arsenal.epl">
+  <programme start="20260924090000 +0100" stop="20260924110000 +0100" channel="arsenal.epl">
     <title lang="en">Next: vs Leeds United FC (Sat 10 Oct @ 12:30)</title>
     <desc lang="en">Upcoming: Arsenal FC vs Leeds United FC. Kickoff at 12:30 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914100000 +0100" stop="20260914120000 +0100" channel="astonvilla.epl">
-    <title lang="en">Next: vs @Tottenham Hotspur FC (Sat 19 Sep @ 12:30)</title>
-    <desc lang="en">Upcoming: Tottenham Hotspur FC vs Aston Villa FC. Kickoff at 12:30 UK on Sat 19 Sep.</desc>
+  <programme start="20260924110000 +0100" stop="20260924130000 +0100" channel="arsenal.epl">
+    <title lang="en">Next: vs Leeds United FC (Sat 10 Oct @ 12:30)</title>
+    <desc lang="en">Upcoming: Arsenal FC vs Leeds United FC. Kickoff at 12:30 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914120000 +0100" stop="20260914140000 +0100" channel="astonvilla.epl">
-    <title lang="en">Next: vs @Tottenham Hotspur FC (Sat 19 Sep @ 12:30)</title>
-    <desc lang="en">Upcoming: Tottenham Hotspur FC vs Aston Villa FC. Kickoff at 12:30 UK on Sat 19 Sep.</desc>
+  <programme start="20260924130000 +0100" stop="20260924150000 +0100" channel="arsenal.epl">
+    <title lang="en">Next: vs Leeds United FC (Sat 10 Oct @ 12:30)</title>
+    <desc lang="en">Upcoming: Arsenal FC vs Leeds United FC. Kickoff at 12:30 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914140000 +0100" stop="20260914160000 +0100" channel="astonvilla.epl">
-    <title lang="en">Next: vs @Tottenham Hotspur FC (Sat 19 Sep @ 12:30)</title>
-    <desc lang="en">Upcoming: Tottenham Hotspur FC vs Aston Villa FC. Kickoff at 12:30 UK on Sat 19 Sep.</desc>
+  <programme start="20260924150000 +0100" stop="20260924170000 +0100" channel="arsenal.epl">
+    <title lang="en">Next: vs Leeds United FC (Sat 10 Oct @ 12:30)</title>
+    <desc lang="en">Upcoming: Arsenal FC vs Leeds United FC. Kickoff at 12:30 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914160000 +0100" stop="20260914180000 +0100" channel="astonvilla.epl">
-    <title lang="en">Next: vs @Tottenham Hotspur FC (Sat 19 Sep @ 12:30)</title>
-    <desc lang="en">Upcoming: Tottenham Hotspur FC vs Aston Villa FC. Kickoff at 12:30 UK on Sat 19 Sep.</desc>
+  <programme start="20260924170000 +0100" stop="20260924190000 +0100" channel="arsenal.epl">
+    <title lang="en">Next: vs Leeds United FC (Sat 10 Oct @ 12:30)</title>
+    <desc lang="en">Upcoming: Arsenal FC vs Leeds United FC. Kickoff at 12:30 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914180000 +0100" stop="20260914200000 +0100" channel="astonvilla.epl">
-    <title lang="en">Next: vs @Tottenham Hotspur FC (Sat 19 Sep @ 12:30)</title>
-    <desc lang="en">Upcoming: Tottenham Hotspur FC vs Aston Villa FC. Kickoff at 12:30 UK on Sat 19 Sep.</desc>
+  <programme start="20260924190000 +0100" stop="20260924210000 +0100" channel="arsenal.epl">
+    <title lang="en">Next: vs Leeds United FC (Sat 10 Oct @ 12:30)</title>
+    <desc lang="en">Upcoming: Arsenal FC vs Leeds United FC. Kickoff at 12:30 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914200000 +0100" stop="20260914220000 +0100" channel="astonvilla.epl">
-    <title lang="en">Next: vs @Tottenham Hotspur FC (Sat 19 Sep @ 12:30)</title>
-    <desc lang="en">Upcoming: Tottenham Hotspur FC vs Aston Villa FC. Kickoff at 12:30 UK on Sat 19 Sep.</desc>
+  <programme start="20260924210000 +0100" stop="20260924230000 +0100" channel="arsenal.epl">
+    <title lang="en">Next: vs Leeds United FC (Sat 10 Oct @ 12:30)</title>
+    <desc lang="en">Upcoming: Arsenal FC vs Leeds United FC. Kickoff at 12:30 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914220000 +0100" stop="20260915000000 +0100" channel="astonvilla.epl">
-    <title lang="en">Next: vs @Tottenham Hotspur FC (Sat 19 Sep @ 12:30)</title>
-    <desc lang="en">Upcoming: Tottenham Hotspur FC vs Aston Villa FC. Kickoff at 12:30 UK on Sat 19 Sep.</desc>
+  <programme start="20260924230000 +0100" stop="20260925010000 +0100" channel="arsenal.epl">
+    <title lang="en">Next: vs Leeds United FC (Sat 10 Oct @ 12:30)</title>
+    <desc lang="en">Upcoming: Arsenal FC vs Leeds United FC. Kickoff at 12:30 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260915000000 +0100" stop="20260915020000 +0100" channel="astonvilla.epl">
-    <title lang="en">Next: vs @Tottenham Hotspur FC (Sat 19 Sep @ 12:30)</title>
-    <desc lang="en">Upcoming: Tottenham Hotspur FC vs Aston Villa FC. Kickoff at 12:30 UK on Sat 19 Sep.</desc>
+  <programme start="20260925010000 +0100" stop="20260925030000 +0100" channel="arsenal.epl">
+    <title lang="en">Next: vs Leeds United FC (Sat 10 Oct @ 12:30)</title>
+    <desc lang="en">Upcoming: Arsenal FC vs Leeds United FC. Kickoff at 12:30 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260915020000 +0100" stop="20260915040000 +0100" channel="astonvilla.epl">
-    <title lang="en">Next: vs @Tottenham Hotspur FC (Sat 19 Sep @ 12:30)</title>
-    <desc lang="en">Upcoming: Tottenham Hotspur FC vs Aston Villa FC. Kickoff at 12:30 UK on Sat 19 Sep.</desc>
+  <programme start="20260925030000 +0100" stop="20260925050000 +0100" channel="arsenal.epl">
+    <title lang="en">Next: vs Leeds United FC (Sat 10 Oct @ 12:30)</title>
+    <desc lang="en">Upcoming: Arsenal FC vs Leeds United FC. Kickoff at 12:30 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260915040000 +0100" stop="20260915060000 +0100" channel="astonvilla.epl">
-    <title lang="en">Next: vs @Tottenham Hotspur FC (Sat 19 Sep @ 12:30)</title>
-    <desc lang="en">Upcoming: Tottenham Hotspur FC vs Aston Villa FC. Kickoff at 12:30 UK on Sat 19 Sep.</desc>
+  <programme start="20260925050000 +0100" stop="20260925070000 +0100" channel="arsenal.epl">
+    <title lang="en">Next: vs Leeds United FC (Sat 10 Oct @ 12:30)</title>
+    <desc lang="en">Upcoming: Arsenal FC vs Leeds United FC. Kickoff at 12:30 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260915060000 +0100" stop="20260915080000 +0100" channel="astonvilla.epl">
-    <title lang="en">Next: vs @Tottenham Hotspur FC (Sat 19 Sep @ 12:30)</title>
-    <desc lang="en">Upcoming: Tottenham Hotspur FC vs Aston Villa FC. Kickoff at 12:30 UK on Sat 19 Sep.</desc>
+  <programme start="20260925070000 +0100" stop="20260925090000 +0100" channel="arsenal.epl">
+    <title lang="en">Next: vs Leeds United FC (Sat 10 Oct @ 12:30)</title>
+    <desc lang="en">Upcoming: Arsenal FC vs Leeds United FC. Kickoff at 12:30 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260915080000 +0100" stop="20260915100000 +0100" channel="astonvilla.epl">
-    <title lang="en">Next: vs @Tottenham Hotspur FC (Sat 19 Sep @ 12:30)</title>
-    <desc lang="en">Upcoming: Tottenham Hotspur FC vs Aston Villa FC. Kickoff at 12:30 UK on Sat 19 Sep.</desc>
+  <programme start="20260925090000 +0100" stop="20260925101810 +0100" channel="arsenal.epl">
+    <title lang="en">Next: vs Leeds United FC (Sat 10 Oct @ 12:30)</title>
+    <desc lang="en">Upcoming: Arsenal FC vs Leeds United FC. Kickoff at 12:30 UK on Sat 10 Oct.</desc>
   </programme>
   <programme start="20260915100000 +0100" stop="20260915120000 +0100" channel="astonvilla.epl">
     <title lang="en">Next: vs @Tottenham Hotspur FC (Sat 19 Sep @ 12:30)</title>
@@ -1508,57 +1460,53 @@
     <title lang="en">Next: vs Brentford FC (Sat 10 Oct @ 15:00)</title>
     <desc lang="en">Upcoming: Aston Villa FC vs Brentford FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260924103000 +0100" stop="20260924104250 +0100" channel="astonvilla.epl">
+  <programme start="20260924103000 +0100" stop="20260924123000 +0100" channel="astonvilla.epl">
     <title lang="en">Next: vs Brentford FC (Sat 10 Oct @ 15:00)</title>
     <desc lang="en">Upcoming: Aston Villa FC vs Brentford FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914100000 +0100" stop="20260914120000 +0100" channel="brentford.epl">
-    <title lang="en">Next: vs Chelsea FC (Fri 18 Sep @ 20:00)</title>
-    <desc lang="en">Upcoming: Brentford FC vs Chelsea FC. Kickoff at 20:00 UK on Fri 18 Sep.</desc>
+  <programme start="20260924123000 +0100" stop="20260924143000 +0100" channel="astonvilla.epl">
+    <title lang="en">Next: vs Brentford FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Aston Villa FC vs Brentford FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914120000 +0100" stop="20260914140000 +0100" channel="brentford.epl">
-    <title lang="en">Next: vs Chelsea FC (Fri 18 Sep @ 20:00)</title>
-    <desc lang="en">Upcoming: Brentford FC vs Chelsea FC. Kickoff at 20:00 UK on Fri 18 Sep.</desc>
+  <programme start="20260924143000 +0100" stop="20260924163000 +0100" channel="astonvilla.epl">
+    <title lang="en">Next: vs Brentford FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Aston Villa FC vs Brentford FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914140000 +0100" stop="20260914160000 +0100" channel="brentford.epl">
-    <title lang="en">Next: vs Chelsea FC (Fri 18 Sep @ 20:00)</title>
-    <desc lang="en">Upcoming: Brentford FC vs Chelsea FC. Kickoff at 20:00 UK on Fri 18 Sep.</desc>
+  <programme start="20260924163000 +0100" stop="20260924183000 +0100" channel="astonvilla.epl">
+    <title lang="en">Next: vs Brentford FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Aston Villa FC vs Brentford FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914160000 +0100" stop="20260914180000 +0100" channel="brentford.epl">
-    <title lang="en">Next: vs Chelsea FC (Fri 18 Sep @ 20:00)</title>
-    <desc lang="en">Upcoming: Brentford FC vs Chelsea FC. Kickoff at 20:00 UK on Fri 18 Sep.</desc>
+  <programme start="20260924183000 +0100" stop="20260924203000 +0100" channel="astonvilla.epl">
+    <title lang="en">Next: vs Brentford FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Aston Villa FC vs Brentford FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914180000 +0100" stop="20260914200000 +0100" channel="brentford.epl">
-    <title lang="en">Next: vs Chelsea FC (Fri 18 Sep @ 20:00)</title>
-    <desc lang="en">Upcoming: Brentford FC vs Chelsea FC. Kickoff at 20:00 UK on Fri 18 Sep.</desc>
+  <programme start="20260924203000 +0100" stop="20260924223000 +0100" channel="astonvilla.epl">
+    <title lang="en">Next: vs Brentford FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Aston Villa FC vs Brentford FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914200000 +0100" stop="20260914220000 +0100" channel="brentford.epl">
-    <title lang="en">Next: vs Chelsea FC (Fri 18 Sep @ 20:00)</title>
-    <desc lang="en">Upcoming: Brentford FC vs Chelsea FC. Kickoff at 20:00 UK on Fri 18 Sep.</desc>
+  <programme start="20260924223000 +0100" stop="20260925003000 +0100" channel="astonvilla.epl">
+    <title lang="en">Next: vs Brentford FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Aston Villa FC vs Brentford FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914220000 +0100" stop="20260915000000 +0100" channel="brentford.epl">
-    <title lang="en">Next: vs Chelsea FC (Fri 18 Sep @ 20:00)</title>
-    <desc lang="en">Upcoming: Brentford FC vs Chelsea FC. Kickoff at 20:00 UK on Fri 18 Sep.</desc>
+  <programme start="20260925003000 +0100" stop="20260925023000 +0100" channel="astonvilla.epl">
+    <title lang="en">Next: vs Brentford FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Aston Villa FC vs Brentford FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260915000000 +0100" stop="20260915020000 +0100" channel="brentford.epl">
-    <title lang="en">Next: vs Chelsea FC (Fri 18 Sep @ 20:00)</title>
-    <desc lang="en">Upcoming: Brentford FC vs Chelsea FC. Kickoff at 20:00 UK on Fri 18 Sep.</desc>
+  <programme start="20260925023000 +0100" stop="20260925043000 +0100" channel="astonvilla.epl">
+    <title lang="en">Next: vs Brentford FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Aston Villa FC vs Brentford FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260915020000 +0100" stop="20260915040000 +0100" channel="brentford.epl">
-    <title lang="en">Next: vs Chelsea FC (Fri 18 Sep @ 20:00)</title>
-    <desc lang="en">Upcoming: Brentford FC vs Chelsea FC. Kickoff at 20:00 UK on Fri 18 Sep.</desc>
+  <programme start="20260925043000 +0100" stop="20260925063000 +0100" channel="astonvilla.epl">
+    <title lang="en">Next: vs Brentford FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Aston Villa FC vs Brentford FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260915040000 +0100" stop="20260915060000 +0100" channel="brentford.epl">
-    <title lang="en">Next: vs Chelsea FC (Fri 18 Sep @ 20:00)</title>
-    <desc lang="en">Upcoming: Brentford FC vs Chelsea FC. Kickoff at 20:00 UK on Fri 18 Sep.</desc>
+  <programme start="20260925063000 +0100" stop="20260925083000 +0100" channel="astonvilla.epl">
+    <title lang="en">Next: vs Brentford FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Aston Villa FC vs Brentford FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260915060000 +0100" stop="20260915080000 +0100" channel="brentford.epl">
-    <title lang="en">Next: vs Chelsea FC (Fri 18 Sep @ 20:00)</title>
-    <desc lang="en">Upcoming: Brentford FC vs Chelsea FC. Kickoff at 20:00 UK on Fri 18 Sep.</desc>
-  </programme>
-  <programme start="20260915080000 +0100" stop="20260915100000 +0100" channel="brentford.epl">
-    <title lang="en">Next: vs Chelsea FC (Fri 18 Sep @ 20:00)</title>
-    <desc lang="en">Upcoming: Brentford FC vs Chelsea FC. Kickoff at 20:00 UK on Fri 18 Sep.</desc>
+  <programme start="20260925083000 +0100" stop="20260925101810 +0100" channel="astonvilla.epl">
+    <title lang="en">Next: vs Brentford FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Aston Villa FC vs Brentford FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
   <programme start="20260915100000 +0100" stop="20260915120000 +0100" channel="brentford.epl">
     <title lang="en">Next: vs Chelsea FC (Fri 18 Sep @ 20:00)</title>
@@ -1992,57 +1940,57 @@
     <title lang="en">Next: vs @Aston Villa FC (Sat 10 Oct @ 15:00)</title>
     <desc lang="en">Upcoming: Aston Villa FC vs Brentford FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260924100000 +0100" stop="20260924104250 +0100" channel="brentford.epl">
+  <programme start="20260924100000 +0100" stop="20260924120000 +0100" channel="brentford.epl">
     <title lang="en">Next: vs @Aston Villa FC (Sat 10 Oct @ 15:00)</title>
     <desc lang="en">Upcoming: Aston Villa FC vs Brentford FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914100000 +0100" stop="20260914120000 +0100" channel="brightonandhovealbion.epl">
-    <title lang="en">Next: vs Arsenal FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Brighton &amp; Hove Albion FC vs Arsenal FC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260924120000 +0100" stop="20260924140000 +0100" channel="brentford.epl">
+    <title lang="en">Next: vs @Aston Villa FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Aston Villa FC vs Brentford FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914120000 +0100" stop="20260914140000 +0100" channel="brightonandhovealbion.epl">
-    <title lang="en">Next: vs Arsenal FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Brighton &amp; Hove Albion FC vs Arsenal FC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260924140000 +0100" stop="20260924160000 +0100" channel="brentford.epl">
+    <title lang="en">Next: vs @Aston Villa FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Aston Villa FC vs Brentford FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914140000 +0100" stop="20260914160000 +0100" channel="brightonandhovealbion.epl">
-    <title lang="en">Next: vs Arsenal FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Brighton &amp; Hove Albion FC vs Arsenal FC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260924160000 +0100" stop="20260924180000 +0100" channel="brentford.epl">
+    <title lang="en">Next: vs @Aston Villa FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Aston Villa FC vs Brentford FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914160000 +0100" stop="20260914180000 +0100" channel="brightonandhovealbion.epl">
-    <title lang="en">Next: vs Arsenal FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Brighton &amp; Hove Albion FC vs Arsenal FC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260924180000 +0100" stop="20260924200000 +0100" channel="brentford.epl">
+    <title lang="en">Next: vs @Aston Villa FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Aston Villa FC vs Brentford FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914180000 +0100" stop="20260914200000 +0100" channel="brightonandhovealbion.epl">
-    <title lang="en">Next: vs Arsenal FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Brighton &amp; Hove Albion FC vs Arsenal FC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260924200000 +0100" stop="20260924220000 +0100" channel="brentford.epl">
+    <title lang="en">Next: vs @Aston Villa FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Aston Villa FC vs Brentford FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914200000 +0100" stop="20260914220000 +0100" channel="brightonandhovealbion.epl">
-    <title lang="en">Next: vs Arsenal FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Brighton &amp; Hove Albion FC vs Arsenal FC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260924220000 +0100" stop="20260925000000 +0100" channel="brentford.epl">
+    <title lang="en">Next: vs @Aston Villa FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Aston Villa FC vs Brentford FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914220000 +0100" stop="20260915000000 +0100" channel="brightonandhovealbion.epl">
-    <title lang="en">Next: vs Arsenal FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Brighton &amp; Hove Albion FC vs Arsenal FC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260925000000 +0100" stop="20260925020000 +0100" channel="brentford.epl">
+    <title lang="en">Next: vs @Aston Villa FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Aston Villa FC vs Brentford FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260915000000 +0100" stop="20260915020000 +0100" channel="brightonandhovealbion.epl">
-    <title lang="en">Next: vs Arsenal FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Brighton &amp; Hove Albion FC vs Arsenal FC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260925020000 +0100" stop="20260925040000 +0100" channel="brentford.epl">
+    <title lang="en">Next: vs @Aston Villa FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Aston Villa FC vs Brentford FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260915020000 +0100" stop="20260915040000 +0100" channel="brightonandhovealbion.epl">
-    <title lang="en">Next: vs Arsenal FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Brighton &amp; Hove Albion FC vs Arsenal FC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260925040000 +0100" stop="20260925060000 +0100" channel="brentford.epl">
+    <title lang="en">Next: vs @Aston Villa FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Aston Villa FC vs Brentford FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260915040000 +0100" stop="20260915060000 +0100" channel="brightonandhovealbion.epl">
-    <title lang="en">Next: vs Arsenal FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Brighton &amp; Hove Albion FC vs Arsenal FC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260925060000 +0100" stop="20260925080000 +0100" channel="brentford.epl">
+    <title lang="en">Next: vs @Aston Villa FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Aston Villa FC vs Brentford FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260915060000 +0100" stop="20260915080000 +0100" channel="brightonandhovealbion.epl">
-    <title lang="en">Next: vs Arsenal FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Brighton &amp; Hove Albion FC vs Arsenal FC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260925080000 +0100" stop="20260925100000 +0100" channel="brentford.epl">
+    <title lang="en">Next: vs @Aston Villa FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Aston Villa FC vs Brentford FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260915080000 +0100" stop="20260915100000 +0100" channel="brightonandhovealbion.epl">
-    <title lang="en">Next: vs Arsenal FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Brighton &amp; Hove Albion FC vs Arsenal FC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260925100000 +0100" stop="20260925101810 +0100" channel="brentford.epl">
+    <title lang="en">Next: vs @Aston Villa FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Aston Villa FC vs Brentford FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
   <programme start="20260915100000 +0100" stop="20260915120000 +0100" channel="brightonandhovealbion.epl">
     <title lang="en">Next: vs Arsenal FC (Sat 19 Sep @ 15:00)</title>
@@ -2476,57 +2424,57 @@
     <title lang="en">Next: vs @Sunderland AFC (Sat 10 Oct @ 15:00)</title>
     <desc lang="en">Upcoming: Sunderland AFC vs Brighton &amp; Hove Albion FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260924090000 +0100" stop="20260924104250 +0100" channel="brightonandhovealbion.epl">
+  <programme start="20260924090000 +0100" stop="20260924110000 +0100" channel="brightonandhovealbion.epl">
     <title lang="en">Next: vs @Sunderland AFC (Sat 10 Oct @ 15:00)</title>
     <desc lang="en">Upcoming: Sunderland AFC vs Brighton &amp; Hove Albion FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914100000 +0100" stop="20260914120000 +0100" channel="chelsea.epl">
-    <title lang="en">Next: vs @Brentford FC (Fri 18 Sep @ 20:00)</title>
-    <desc lang="en">Upcoming: Brentford FC vs Chelsea FC. Kickoff at 20:00 UK on Fri 18 Sep.</desc>
+  <programme start="20260924110000 +0100" stop="20260924130000 +0100" channel="brightonandhovealbion.epl">
+    <title lang="en">Next: vs @Sunderland AFC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Sunderland AFC vs Brighton &amp; Hove Albion FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914120000 +0100" stop="20260914140000 +0100" channel="chelsea.epl">
-    <title lang="en">Next: vs @Brentford FC (Fri 18 Sep @ 20:00)</title>
-    <desc lang="en">Upcoming: Brentford FC vs Chelsea FC. Kickoff at 20:00 UK on Fri 18 Sep.</desc>
+  <programme start="20260924130000 +0100" stop="20260924150000 +0100" channel="brightonandhovealbion.epl">
+    <title lang="en">Next: vs @Sunderland AFC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Sunderland AFC vs Brighton &amp; Hove Albion FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914140000 +0100" stop="20260914160000 +0100" channel="chelsea.epl">
-    <title lang="en">Next: vs @Brentford FC (Fri 18 Sep @ 20:00)</title>
-    <desc lang="en">Upcoming: Brentford FC vs Chelsea FC. Kickoff at 20:00 UK on Fri 18 Sep.</desc>
+  <programme start="20260924150000 +0100" stop="20260924170000 +0100" channel="brightonandhovealbion.epl">
+    <title lang="en">Next: vs @Sunderland AFC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Sunderland AFC vs Brighton &amp; Hove Albion FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914160000 +0100" stop="20260914180000 +0100" channel="chelsea.epl">
-    <title lang="en">Next: vs @Brentford FC (Fri 18 Sep @ 20:00)</title>
-    <desc lang="en">Upcoming: Brentford FC vs Chelsea FC. Kickoff at 20:00 UK on Fri 18 Sep.</desc>
+  <programme start="20260924170000 +0100" stop="20260924190000 +0100" channel="brightonandhovealbion.epl">
+    <title lang="en">Next: vs @Sunderland AFC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Sunderland AFC vs Brighton &amp; Hove Albion FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914180000 +0100" stop="20260914200000 +0100" channel="chelsea.epl">
-    <title lang="en">Next: vs @Brentford FC (Fri 18 Sep @ 20:00)</title>
-    <desc lang="en">Upcoming: Brentford FC vs Chelsea FC. Kickoff at 20:00 UK on Fri 18 Sep.</desc>
+  <programme start="20260924190000 +0100" stop="20260924210000 +0100" channel="brightonandhovealbion.epl">
+    <title lang="en">Next: vs @Sunderland AFC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Sunderland AFC vs Brighton &amp; Hove Albion FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914200000 +0100" stop="20260914220000 +0100" channel="chelsea.epl">
-    <title lang="en">Next: vs @Brentford FC (Fri 18 Sep @ 20:00)</title>
-    <desc lang="en">Upcoming: Brentford FC vs Chelsea FC. Kickoff at 20:00 UK on Fri 18 Sep.</desc>
+  <programme start="20260924210000 +0100" stop="20260924230000 +0100" channel="brightonandhovealbion.epl">
+    <title lang="en">Next: vs @Sunderland AFC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Sunderland AFC vs Brighton &amp; Hove Albion FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914220000 +0100" stop="20260915000000 +0100" channel="chelsea.epl">
-    <title lang="en">Next: vs @Brentford FC (Fri 18 Sep @ 20:00)</title>
-    <desc lang="en">Upcoming: Brentford FC vs Chelsea FC. Kickoff at 20:00 UK on Fri 18 Sep.</desc>
+  <programme start="20260924230000 +0100" stop="20260925010000 +0100" channel="brightonandhovealbion.epl">
+    <title lang="en">Next: vs @Sunderland AFC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Sunderland AFC vs Brighton &amp; Hove Albion FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260915000000 +0100" stop="20260915020000 +0100" channel="chelsea.epl">
-    <title lang="en">Next: vs @Brentford FC (Fri 18 Sep @ 20:00)</title>
-    <desc lang="en">Upcoming: Brentford FC vs Chelsea FC. Kickoff at 20:00 UK on Fri 18 Sep.</desc>
+  <programme start="20260925010000 +0100" stop="20260925030000 +0100" channel="brightonandhovealbion.epl">
+    <title lang="en">Next: vs @Sunderland AFC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Sunderland AFC vs Brighton &amp; Hove Albion FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260915020000 +0100" stop="20260915040000 +0100" channel="chelsea.epl">
-    <title lang="en">Next: vs @Brentford FC (Fri 18 Sep @ 20:00)</title>
-    <desc lang="en">Upcoming: Brentford FC vs Chelsea FC. Kickoff at 20:00 UK on Fri 18 Sep.</desc>
+  <programme start="20260925030000 +0100" stop="20260925050000 +0100" channel="brightonandhovealbion.epl">
+    <title lang="en">Next: vs @Sunderland AFC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Sunderland AFC vs Brighton &amp; Hove Albion FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260915040000 +0100" stop="20260915060000 +0100" channel="chelsea.epl">
-    <title lang="en">Next: vs @Brentford FC (Fri 18 Sep @ 20:00)</title>
-    <desc lang="en">Upcoming: Brentford FC vs Chelsea FC. Kickoff at 20:00 UK on Fri 18 Sep.</desc>
+  <programme start="20260925050000 +0100" stop="20260925070000 +0100" channel="brightonandhovealbion.epl">
+    <title lang="en">Next: vs @Sunderland AFC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Sunderland AFC vs Brighton &amp; Hove Albion FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260915060000 +0100" stop="20260915080000 +0100" channel="chelsea.epl">
-    <title lang="en">Next: vs @Brentford FC (Fri 18 Sep @ 20:00)</title>
-    <desc lang="en">Upcoming: Brentford FC vs Chelsea FC. Kickoff at 20:00 UK on Fri 18 Sep.</desc>
+  <programme start="20260925070000 +0100" stop="20260925090000 +0100" channel="brightonandhovealbion.epl">
+    <title lang="en">Next: vs @Sunderland AFC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Sunderland AFC vs Brighton &amp; Hove Albion FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260915080000 +0100" stop="20260915100000 +0100" channel="chelsea.epl">
-    <title lang="en">Next: vs @Brentford FC (Fri 18 Sep @ 20:00)</title>
-    <desc lang="en">Upcoming: Brentford FC vs Chelsea FC. Kickoff at 20:00 UK on Fri 18 Sep.</desc>
+  <programme start="20260925090000 +0100" stop="20260925101810 +0100" channel="brightonandhovealbion.epl">
+    <title lang="en">Next: vs @Sunderland AFC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Sunderland AFC vs Brighton &amp; Hove Albion FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
   <programme start="20260915100000 +0100" stop="20260915120000 +0100" channel="chelsea.epl">
     <title lang="en">Next: vs @Brentford FC (Fri 18 Sep @ 20:00)</title>
@@ -2960,57 +2908,57 @@
     <title lang="en">Next: vs AFC Bournemouth (Sat 10 Oct @ 15:00)</title>
     <desc lang="en">Upcoming: Chelsea FC vs AFC Bournemouth. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260924100000 +0100" stop="20260924104250 +0100" channel="chelsea.epl">
+  <programme start="20260924100000 +0100" stop="20260924120000 +0100" channel="chelsea.epl">
     <title lang="en">Next: vs AFC Bournemouth (Sat 10 Oct @ 15:00)</title>
     <desc lang="en">Upcoming: Chelsea FC vs AFC Bournemouth. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914100000 +0100" stop="20260914120000 +0100" channel="coventrycity.epl">
-    <title lang="en">Next: vs @Nottingham Forest FC (Sat 19 Sep @ 17:30)</title>
-    <desc lang="en">Upcoming: Nottingham Forest FC vs Coventry City FC. Kickoff at 17:30 UK on Sat 19 Sep.</desc>
+  <programme start="20260924120000 +0100" stop="20260924140000 +0100" channel="chelsea.epl">
+    <title lang="en">Next: vs AFC Bournemouth (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Chelsea FC vs AFC Bournemouth. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914120000 +0100" stop="20260914140000 +0100" channel="coventrycity.epl">
-    <title lang="en">Next: vs @Nottingham Forest FC (Sat 19 Sep @ 17:30)</title>
-    <desc lang="en">Upcoming: Nottingham Forest FC vs Coventry City FC. Kickoff at 17:30 UK on Sat 19 Sep.</desc>
+  <programme start="20260924140000 +0100" stop="20260924160000 +0100" channel="chelsea.epl">
+    <title lang="en">Next: vs AFC Bournemouth (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Chelsea FC vs AFC Bournemouth. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914140000 +0100" stop="20260914160000 +0100" channel="coventrycity.epl">
-    <title lang="en">Next: vs @Nottingham Forest FC (Sat 19 Sep @ 17:30)</title>
-    <desc lang="en">Upcoming: Nottingham Forest FC vs Coventry City FC. Kickoff at 17:30 UK on Sat 19 Sep.</desc>
+  <programme start="20260924160000 +0100" stop="20260924180000 +0100" channel="chelsea.epl">
+    <title lang="en">Next: vs AFC Bournemouth (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Chelsea FC vs AFC Bournemouth. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914160000 +0100" stop="20260914180000 +0100" channel="coventrycity.epl">
-    <title lang="en">Next: vs @Nottingham Forest FC (Sat 19 Sep @ 17:30)</title>
-    <desc lang="en">Upcoming: Nottingham Forest FC vs Coventry City FC. Kickoff at 17:30 UK on Sat 19 Sep.</desc>
+  <programme start="20260924180000 +0100" stop="20260924200000 +0100" channel="chelsea.epl">
+    <title lang="en">Next: vs AFC Bournemouth (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Chelsea FC vs AFC Bournemouth. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914180000 +0100" stop="20260914200000 +0100" channel="coventrycity.epl">
-    <title lang="en">Next: vs @Nottingham Forest FC (Sat 19 Sep @ 17:30)</title>
-    <desc lang="en">Upcoming: Nottingham Forest FC vs Coventry City FC. Kickoff at 17:30 UK on Sat 19 Sep.</desc>
+  <programme start="20260924200000 +0100" stop="20260924220000 +0100" channel="chelsea.epl">
+    <title lang="en">Next: vs AFC Bournemouth (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Chelsea FC vs AFC Bournemouth. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914200000 +0100" stop="20260914220000 +0100" channel="coventrycity.epl">
-    <title lang="en">Next: vs @Nottingham Forest FC (Sat 19 Sep @ 17:30)</title>
-    <desc lang="en">Upcoming: Nottingham Forest FC vs Coventry City FC. Kickoff at 17:30 UK on Sat 19 Sep.</desc>
+  <programme start="20260924220000 +0100" stop="20260925000000 +0100" channel="chelsea.epl">
+    <title lang="en">Next: vs AFC Bournemouth (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Chelsea FC vs AFC Bournemouth. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914220000 +0100" stop="20260915000000 +0100" channel="coventrycity.epl">
-    <title lang="en">Next: vs @Nottingham Forest FC (Sat 19 Sep @ 17:30)</title>
-    <desc lang="en">Upcoming: Nottingham Forest FC vs Coventry City FC. Kickoff at 17:30 UK on Sat 19 Sep.</desc>
+  <programme start="20260925000000 +0100" stop="20260925020000 +0100" channel="chelsea.epl">
+    <title lang="en">Next: vs AFC Bournemouth (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Chelsea FC vs AFC Bournemouth. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260915000000 +0100" stop="20260915020000 +0100" channel="coventrycity.epl">
-    <title lang="en">Next: vs @Nottingham Forest FC (Sat 19 Sep @ 17:30)</title>
-    <desc lang="en">Upcoming: Nottingham Forest FC vs Coventry City FC. Kickoff at 17:30 UK on Sat 19 Sep.</desc>
+  <programme start="20260925020000 +0100" stop="20260925040000 +0100" channel="chelsea.epl">
+    <title lang="en">Next: vs AFC Bournemouth (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Chelsea FC vs AFC Bournemouth. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260915020000 +0100" stop="20260915040000 +0100" channel="coventrycity.epl">
-    <title lang="en">Next: vs @Nottingham Forest FC (Sat 19 Sep @ 17:30)</title>
-    <desc lang="en">Upcoming: Nottingham Forest FC vs Coventry City FC. Kickoff at 17:30 UK on Sat 19 Sep.</desc>
+  <programme start="20260925040000 +0100" stop="20260925060000 +0100" channel="chelsea.epl">
+    <title lang="en">Next: vs AFC Bournemouth (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Chelsea FC vs AFC Bournemouth. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260915040000 +0100" stop="20260915060000 +0100" channel="coventrycity.epl">
-    <title lang="en">Next: vs @Nottingham Forest FC (Sat 19 Sep @ 17:30)</title>
-    <desc lang="en">Upcoming: Nottingham Forest FC vs Coventry City FC. Kickoff at 17:30 UK on Sat 19 Sep.</desc>
+  <programme start="20260925060000 +0100" stop="20260925080000 +0100" channel="chelsea.epl">
+    <title lang="en">Next: vs AFC Bournemouth (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Chelsea FC vs AFC Bournemouth. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260915060000 +0100" stop="20260915080000 +0100" channel="coventrycity.epl">
-    <title lang="en">Next: vs @Nottingham Forest FC (Sat 19 Sep @ 17:30)</title>
-    <desc lang="en">Upcoming: Nottingham Forest FC vs Coventry City FC. Kickoff at 17:30 UK on Sat 19 Sep.</desc>
+  <programme start="20260925080000 +0100" stop="20260925100000 +0100" channel="chelsea.epl">
+    <title lang="en">Next: vs AFC Bournemouth (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Chelsea FC vs AFC Bournemouth. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260915080000 +0100" stop="20260915100000 +0100" channel="coventrycity.epl">
-    <title lang="en">Next: vs @Nottingham Forest FC (Sat 19 Sep @ 17:30)</title>
-    <desc lang="en">Upcoming: Nottingham Forest FC vs Coventry City FC. Kickoff at 17:30 UK on Sat 19 Sep.</desc>
+  <programme start="20260925100000 +0100" stop="20260925101810 +0100" channel="chelsea.epl">
+    <title lang="en">Next: vs AFC Bournemouth (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Chelsea FC vs AFC Bournemouth. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
   <programme start="20260915100000 +0100" stop="20260915120000 +0100" channel="coventrycity.epl">
     <title lang="en">Next: vs @Nottingham Forest FC (Sat 19 Sep @ 17:30)</title>
@@ -3444,57 +3392,57 @@
     <title lang="en">Next: vs Newcastle United FC (Mon 12 Oct @ 20:00)</title>
     <desc lang="en">Upcoming: Coventry City FC vs Newcastle United FC. Kickoff at 20:00 UK on Mon 12 Oct.</desc>
   </programme>
-  <programme start="20260924093000 +0100" stop="20260924104250 +0100" channel="coventrycity.epl">
+  <programme start="20260924093000 +0100" stop="20260924113000 +0100" channel="coventrycity.epl">
     <title lang="en">Next: vs Newcastle United FC (Mon 12 Oct @ 20:00)</title>
     <desc lang="en">Upcoming: Coventry City FC vs Newcastle United FC. Kickoff at 20:00 UK on Mon 12 Oct.</desc>
   </programme>
-  <programme start="20260914100000 +0100" stop="20260914120000 +0100" channel="crystalpalace.epl">
-    <title lang="en">Next: vs @Leeds United FC (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: Leeds United FC vs Crystal Palace FC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
+  <programme start="20260924113000 +0100" stop="20260924133000 +0100" channel="coventrycity.epl">
+    <title lang="en">Next: vs Newcastle United FC (Mon 12 Oct @ 20:00)</title>
+    <desc lang="en">Upcoming: Coventry City FC vs Newcastle United FC. Kickoff at 20:00 UK on Mon 12 Oct.</desc>
   </programme>
-  <programme start="20260914120000 +0100" stop="20260914140000 +0100" channel="crystalpalace.epl">
-    <title lang="en">Next: vs @Leeds United FC (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: Leeds United FC vs Crystal Palace FC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
+  <programme start="20260924133000 +0100" stop="20260924153000 +0100" channel="coventrycity.epl">
+    <title lang="en">Next: vs Newcastle United FC (Mon 12 Oct @ 20:00)</title>
+    <desc lang="en">Upcoming: Coventry City FC vs Newcastle United FC. Kickoff at 20:00 UK on Mon 12 Oct.</desc>
   </programme>
-  <programme start="20260914140000 +0100" stop="20260914160000 +0100" channel="crystalpalace.epl">
-    <title lang="en">Next: vs @Leeds United FC (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: Leeds United FC vs Crystal Palace FC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
+  <programme start="20260924153000 +0100" stop="20260924173000 +0100" channel="coventrycity.epl">
+    <title lang="en">Next: vs Newcastle United FC (Mon 12 Oct @ 20:00)</title>
+    <desc lang="en">Upcoming: Coventry City FC vs Newcastle United FC. Kickoff at 20:00 UK on Mon 12 Oct.</desc>
   </programme>
-  <programme start="20260914160000 +0100" stop="20260914180000 +0100" channel="crystalpalace.epl">
-    <title lang="en">Next: vs @Leeds United FC (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: Leeds United FC vs Crystal Palace FC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
+  <programme start="20260924173000 +0100" stop="20260924193000 +0100" channel="coventrycity.epl">
+    <title lang="en">Next: vs Newcastle United FC (Mon 12 Oct @ 20:00)</title>
+    <desc lang="en">Upcoming: Coventry City FC vs Newcastle United FC. Kickoff at 20:00 UK on Mon 12 Oct.</desc>
   </programme>
-  <programme start="20260914180000 +0100" stop="20260914200000 +0100" channel="crystalpalace.epl">
-    <title lang="en">Next: vs @Leeds United FC (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: Leeds United FC vs Crystal Palace FC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
+  <programme start="20260924193000 +0100" stop="20260924213000 +0100" channel="coventrycity.epl">
+    <title lang="en">Next: vs Newcastle United FC (Mon 12 Oct @ 20:00)</title>
+    <desc lang="en">Upcoming: Coventry City FC vs Newcastle United FC. Kickoff at 20:00 UK on Mon 12 Oct.</desc>
   </programme>
-  <programme start="20260914200000 +0100" stop="20260914220000 +0100" channel="crystalpalace.epl">
-    <title lang="en">Next: vs @Leeds United FC (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: Leeds United FC vs Crystal Palace FC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
+  <programme start="20260924213000 +0100" stop="20260924233000 +0100" channel="coventrycity.epl">
+    <title lang="en">Next: vs Newcastle United FC (Mon 12 Oct @ 20:00)</title>
+    <desc lang="en">Upcoming: Coventry City FC vs Newcastle United FC. Kickoff at 20:00 UK on Mon 12 Oct.</desc>
   </programme>
-  <programme start="20260914220000 +0100" stop="20260915000000 +0100" channel="crystalpalace.epl">
-    <title lang="en">Next: vs @Leeds United FC (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: Leeds United FC vs Crystal Palace FC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
+  <programme start="20260924233000 +0100" stop="20260925013000 +0100" channel="coventrycity.epl">
+    <title lang="en">Next: vs Newcastle United FC (Mon 12 Oct @ 20:00)</title>
+    <desc lang="en">Upcoming: Coventry City FC vs Newcastle United FC. Kickoff at 20:00 UK on Mon 12 Oct.</desc>
   </programme>
-  <programme start="20260915000000 +0100" stop="20260915020000 +0100" channel="crystalpalace.epl">
-    <title lang="en">Next: vs @Leeds United FC (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: Leeds United FC vs Crystal Palace FC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
+  <programme start="20260925013000 +0100" stop="20260925033000 +0100" channel="coventrycity.epl">
+    <title lang="en">Next: vs Newcastle United FC (Mon 12 Oct @ 20:00)</title>
+    <desc lang="en">Upcoming: Coventry City FC vs Newcastle United FC. Kickoff at 20:00 UK on Mon 12 Oct.</desc>
   </programme>
-  <programme start="20260915020000 +0100" stop="20260915040000 +0100" channel="crystalpalace.epl">
-    <title lang="en">Next: vs @Leeds United FC (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: Leeds United FC vs Crystal Palace FC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
+  <programme start="20260925033000 +0100" stop="20260925053000 +0100" channel="coventrycity.epl">
+    <title lang="en">Next: vs Newcastle United FC (Mon 12 Oct @ 20:00)</title>
+    <desc lang="en">Upcoming: Coventry City FC vs Newcastle United FC. Kickoff at 20:00 UK on Mon 12 Oct.</desc>
   </programme>
-  <programme start="20260915040000 +0100" stop="20260915060000 +0100" channel="crystalpalace.epl">
-    <title lang="en">Next: vs @Leeds United FC (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: Leeds United FC vs Crystal Palace FC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
+  <programme start="20260925053000 +0100" stop="20260925073000 +0100" channel="coventrycity.epl">
+    <title lang="en">Next: vs Newcastle United FC (Mon 12 Oct @ 20:00)</title>
+    <desc lang="en">Upcoming: Coventry City FC vs Newcastle United FC. Kickoff at 20:00 UK on Mon 12 Oct.</desc>
   </programme>
-  <programme start="20260915060000 +0100" stop="20260915080000 +0100" channel="crystalpalace.epl">
-    <title lang="en">Next: vs @Leeds United FC (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: Leeds United FC vs Crystal Palace FC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
+  <programme start="20260925073000 +0100" stop="20260925093000 +0100" channel="coventrycity.epl">
+    <title lang="en">Next: vs Newcastle United FC (Mon 12 Oct @ 20:00)</title>
+    <desc lang="en">Upcoming: Coventry City FC vs Newcastle United FC. Kickoff at 20:00 UK on Mon 12 Oct.</desc>
   </programme>
-  <programme start="20260915080000 +0100" stop="20260915100000 +0100" channel="crystalpalace.epl">
-    <title lang="en">Next: vs @Leeds United FC (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: Leeds United FC vs Crystal Palace FC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
+  <programme start="20260925093000 +0100" stop="20260925101810 +0100" channel="coventrycity.epl">
+    <title lang="en">Next: vs Newcastle United FC (Mon 12 Oct @ 20:00)</title>
+    <desc lang="en">Upcoming: Coventry City FC vs Newcastle United FC. Kickoff at 20:00 UK on Mon 12 Oct.</desc>
   </programme>
   <programme start="20260915100000 +0100" stop="20260915120000 +0100" channel="crystalpalace.epl">
     <title lang="en">Next: vs @Leeds United FC (Sun 20 Sep @ 14:00)</title>
@@ -3928,57 +3876,57 @@
     <title lang="en">Next: vs Nottingham Forest FC (Sun 11 Oct @ 14:00)</title>
     <desc lang="en">Upcoming: Crystal Palace FC vs Nottingham Forest FC. Kickoff at 14:00 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260924100000 +0100" stop="20260924104250 +0100" channel="crystalpalace.epl">
+  <programme start="20260924100000 +0100" stop="20260924120000 +0100" channel="crystalpalace.epl">
     <title lang="en">Next: vs Nottingham Forest FC (Sun 11 Oct @ 14:00)</title>
     <desc lang="en">Upcoming: Crystal Palace FC vs Nottingham Forest FC. Kickoff at 14:00 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260914100000 +0100" stop="20260914120000 +0100" channel="everton.epl">
-    <title lang="en">Next: vs Ipswich Town FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Everton FC vs Ipswich Town FC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260924120000 +0100" stop="20260924140000 +0100" channel="crystalpalace.epl">
+    <title lang="en">Next: vs Nottingham Forest FC (Sun 11 Oct @ 14:00)</title>
+    <desc lang="en">Upcoming: Crystal Palace FC vs Nottingham Forest FC. Kickoff at 14:00 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260914120000 +0100" stop="20260914140000 +0100" channel="everton.epl">
-    <title lang="en">Next: vs Ipswich Town FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Everton FC vs Ipswich Town FC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260924140000 +0100" stop="20260924160000 +0100" channel="crystalpalace.epl">
+    <title lang="en">Next: vs Nottingham Forest FC (Sun 11 Oct @ 14:00)</title>
+    <desc lang="en">Upcoming: Crystal Palace FC vs Nottingham Forest FC. Kickoff at 14:00 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260914140000 +0100" stop="20260914160000 +0100" channel="everton.epl">
-    <title lang="en">Next: vs Ipswich Town FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Everton FC vs Ipswich Town FC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260924160000 +0100" stop="20260924180000 +0100" channel="crystalpalace.epl">
+    <title lang="en">Next: vs Nottingham Forest FC (Sun 11 Oct @ 14:00)</title>
+    <desc lang="en">Upcoming: Crystal Palace FC vs Nottingham Forest FC. Kickoff at 14:00 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260914160000 +0100" stop="20260914180000 +0100" channel="everton.epl">
-    <title lang="en">Next: vs Ipswich Town FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Everton FC vs Ipswich Town FC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260924180000 +0100" stop="20260924200000 +0100" channel="crystalpalace.epl">
+    <title lang="en">Next: vs Nottingham Forest FC (Sun 11 Oct @ 14:00)</title>
+    <desc lang="en">Upcoming: Crystal Palace FC vs Nottingham Forest FC. Kickoff at 14:00 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260914180000 +0100" stop="20260914200000 +0100" channel="everton.epl">
-    <title lang="en">Next: vs Ipswich Town FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Everton FC vs Ipswich Town FC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260924200000 +0100" stop="20260924220000 +0100" channel="crystalpalace.epl">
+    <title lang="en">Next: vs Nottingham Forest FC (Sun 11 Oct @ 14:00)</title>
+    <desc lang="en">Upcoming: Crystal Palace FC vs Nottingham Forest FC. Kickoff at 14:00 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260914200000 +0100" stop="20260914220000 +0100" channel="everton.epl">
-    <title lang="en">Next: vs Ipswich Town FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Everton FC vs Ipswich Town FC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260924220000 +0100" stop="20260925000000 +0100" channel="crystalpalace.epl">
+    <title lang="en">Next: vs Nottingham Forest FC (Sun 11 Oct @ 14:00)</title>
+    <desc lang="en">Upcoming: Crystal Palace FC vs Nottingham Forest FC. Kickoff at 14:00 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260914220000 +0100" stop="20260915000000 +0100" channel="everton.epl">
-    <title lang="en">Next: vs Ipswich Town FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Everton FC vs Ipswich Town FC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260925000000 +0100" stop="20260925020000 +0100" channel="crystalpalace.epl">
+    <title lang="en">Next: vs Nottingham Forest FC (Sun 11 Oct @ 14:00)</title>
+    <desc lang="en">Upcoming: Crystal Palace FC vs Nottingham Forest FC. Kickoff at 14:00 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260915000000 +0100" stop="20260915020000 +0100" channel="everton.epl">
-    <title lang="en">Next: vs Ipswich Town FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Everton FC vs Ipswich Town FC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260925020000 +0100" stop="20260925040000 +0100" channel="crystalpalace.epl">
+    <title lang="en">Next: vs Nottingham Forest FC (Sun 11 Oct @ 14:00)</title>
+    <desc lang="en">Upcoming: Crystal Palace FC vs Nottingham Forest FC. Kickoff at 14:00 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260915020000 +0100" stop="20260915040000 +0100" channel="everton.epl">
-    <title lang="en">Next: vs Ipswich Town FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Everton FC vs Ipswich Town FC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260925040000 +0100" stop="20260925060000 +0100" channel="crystalpalace.epl">
+    <title lang="en">Next: vs Nottingham Forest FC (Sun 11 Oct @ 14:00)</title>
+    <desc lang="en">Upcoming: Crystal Palace FC vs Nottingham Forest FC. Kickoff at 14:00 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260915040000 +0100" stop="20260915060000 +0100" channel="everton.epl">
-    <title lang="en">Next: vs Ipswich Town FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Everton FC vs Ipswich Town FC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260925060000 +0100" stop="20260925080000 +0100" channel="crystalpalace.epl">
+    <title lang="en">Next: vs Nottingham Forest FC (Sun 11 Oct @ 14:00)</title>
+    <desc lang="en">Upcoming: Crystal Palace FC vs Nottingham Forest FC. Kickoff at 14:00 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260915060000 +0100" stop="20260915080000 +0100" channel="everton.epl">
-    <title lang="en">Next: vs Ipswich Town FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Everton FC vs Ipswich Town FC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260925080000 +0100" stop="20260925100000 +0100" channel="crystalpalace.epl">
+    <title lang="en">Next: vs Nottingham Forest FC (Sun 11 Oct @ 14:00)</title>
+    <desc lang="en">Upcoming: Crystal Palace FC vs Nottingham Forest FC. Kickoff at 14:00 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260915080000 +0100" stop="20260915100000 +0100" channel="everton.epl">
-    <title lang="en">Next: vs Ipswich Town FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Everton FC vs Ipswich Town FC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260925100000 +0100" stop="20260925101810 +0100" channel="crystalpalace.epl">
+    <title lang="en">Next: vs Nottingham Forest FC (Sun 11 Oct @ 14:00)</title>
+    <desc lang="en">Upcoming: Crystal Palace FC vs Nottingham Forest FC. Kickoff at 14:00 UK on Sun 11 Oct.</desc>
   </programme>
   <programme start="20260915100000 +0100" stop="20260915120000 +0100" channel="everton.epl">
     <title lang="en">Next: vs Ipswich Town FC (Sat 19 Sep @ 15:00)</title>
@@ -4412,57 +4360,57 @@
     <title lang="en">Next: vs @Hull City AFC (Sun 11 Oct @ 14:00)</title>
     <desc lang="en">Upcoming: Hull City AFC vs Everton FC. Kickoff at 14:00 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260924090000 +0100" stop="20260924104250 +0100" channel="everton.epl">
+  <programme start="20260924090000 +0100" stop="20260924110000 +0100" channel="everton.epl">
     <title lang="en">Next: vs @Hull City AFC (Sun 11 Oct @ 14:00)</title>
     <desc lang="en">Upcoming: Hull City AFC vs Everton FC. Kickoff at 14:00 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260914100000 +0100" stop="20260914120000 +0100" channel="fulham.epl">
-    <title lang="en">Next: vs Manchester United FC (Sun 20 Sep @ 16:30)</title>
-    <desc lang="en">Upcoming: Fulham FC vs Manchester United FC. Kickoff at 16:30 UK on Sun 20 Sep.</desc>
+  <programme start="20260924110000 +0100" stop="20260924130000 +0100" channel="everton.epl">
+    <title lang="en">Next: vs @Hull City AFC (Sun 11 Oct @ 14:00)</title>
+    <desc lang="en">Upcoming: Hull City AFC vs Everton FC. Kickoff at 14:00 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260914120000 +0100" stop="20260914140000 +0100" channel="fulham.epl">
-    <title lang="en">Next: vs Manchester United FC (Sun 20 Sep @ 16:30)</title>
-    <desc lang="en">Upcoming: Fulham FC vs Manchester United FC. Kickoff at 16:30 UK on Sun 20 Sep.</desc>
+  <programme start="20260924130000 +0100" stop="20260924150000 +0100" channel="everton.epl">
+    <title lang="en">Next: vs @Hull City AFC (Sun 11 Oct @ 14:00)</title>
+    <desc lang="en">Upcoming: Hull City AFC vs Everton FC. Kickoff at 14:00 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260914140000 +0100" stop="20260914160000 +0100" channel="fulham.epl">
-    <title lang="en">Next: vs Manchester United FC (Sun 20 Sep @ 16:30)</title>
-    <desc lang="en">Upcoming: Fulham FC vs Manchester United FC. Kickoff at 16:30 UK on Sun 20 Sep.</desc>
+  <programme start="20260924150000 +0100" stop="20260924170000 +0100" channel="everton.epl">
+    <title lang="en">Next: vs @Hull City AFC (Sun 11 Oct @ 14:00)</title>
+    <desc lang="en">Upcoming: Hull City AFC vs Everton FC. Kickoff at 14:00 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260914160000 +0100" stop="20260914180000 +0100" channel="fulham.epl">
-    <title lang="en">Next: vs Manchester United FC (Sun 20 Sep @ 16:30)</title>
-    <desc lang="en">Upcoming: Fulham FC vs Manchester United FC. Kickoff at 16:30 UK on Sun 20 Sep.</desc>
+  <programme start="20260924170000 +0100" stop="20260924190000 +0100" channel="everton.epl">
+    <title lang="en">Next: vs @Hull City AFC (Sun 11 Oct @ 14:00)</title>
+    <desc lang="en">Upcoming: Hull City AFC vs Everton FC. Kickoff at 14:00 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260914180000 +0100" stop="20260914200000 +0100" channel="fulham.epl">
-    <title lang="en">Next: vs Manchester United FC (Sun 20 Sep @ 16:30)</title>
-    <desc lang="en">Upcoming: Fulham FC vs Manchester United FC. Kickoff at 16:30 UK on Sun 20 Sep.</desc>
+  <programme start="20260924190000 +0100" stop="20260924210000 +0100" channel="everton.epl">
+    <title lang="en">Next: vs @Hull City AFC (Sun 11 Oct @ 14:00)</title>
+    <desc lang="en">Upcoming: Hull City AFC vs Everton FC. Kickoff at 14:00 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260914200000 +0100" stop="20260914220000 +0100" channel="fulham.epl">
-    <title lang="en">Next: vs Manchester United FC (Sun 20 Sep @ 16:30)</title>
-    <desc lang="en">Upcoming: Fulham FC vs Manchester United FC. Kickoff at 16:30 UK on Sun 20 Sep.</desc>
+  <programme start="20260924210000 +0100" stop="20260924230000 +0100" channel="everton.epl">
+    <title lang="en">Next: vs @Hull City AFC (Sun 11 Oct @ 14:00)</title>
+    <desc lang="en">Upcoming: Hull City AFC vs Everton FC. Kickoff at 14:00 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260914220000 +0100" stop="20260915000000 +0100" channel="fulham.epl">
-    <title lang="en">Next: vs Manchester United FC (Sun 20 Sep @ 16:30)</title>
-    <desc lang="en">Upcoming: Fulham FC vs Manchester United FC. Kickoff at 16:30 UK on Sun 20 Sep.</desc>
+  <programme start="20260924230000 +0100" stop="20260925010000 +0100" channel="everton.epl">
+    <title lang="en">Next: vs @Hull City AFC (Sun 11 Oct @ 14:00)</title>
+    <desc lang="en">Upcoming: Hull City AFC vs Everton FC. Kickoff at 14:00 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260915000000 +0100" stop="20260915020000 +0100" channel="fulham.epl">
-    <title lang="en">Next: vs Manchester United FC (Sun 20 Sep @ 16:30)</title>
-    <desc lang="en">Upcoming: Fulham FC vs Manchester United FC. Kickoff at 16:30 UK on Sun 20 Sep.</desc>
+  <programme start="20260925010000 +0100" stop="20260925030000 +0100" channel="everton.epl">
+    <title lang="en">Next: vs @Hull City AFC (Sun 11 Oct @ 14:00)</title>
+    <desc lang="en">Upcoming: Hull City AFC vs Everton FC. Kickoff at 14:00 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260915020000 +0100" stop="20260915040000 +0100" channel="fulham.epl">
-    <title lang="en">Next: vs Manchester United FC (Sun 20 Sep @ 16:30)</title>
-    <desc lang="en">Upcoming: Fulham FC vs Manchester United FC. Kickoff at 16:30 UK on Sun 20 Sep.</desc>
+  <programme start="20260925030000 +0100" stop="20260925050000 +0100" channel="everton.epl">
+    <title lang="en">Next: vs @Hull City AFC (Sun 11 Oct @ 14:00)</title>
+    <desc lang="en">Upcoming: Hull City AFC vs Everton FC. Kickoff at 14:00 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260915040000 +0100" stop="20260915060000 +0100" channel="fulham.epl">
-    <title lang="en">Next: vs Manchester United FC (Sun 20 Sep @ 16:30)</title>
-    <desc lang="en">Upcoming: Fulham FC vs Manchester United FC. Kickoff at 16:30 UK on Sun 20 Sep.</desc>
+  <programme start="20260925050000 +0100" stop="20260925070000 +0100" channel="everton.epl">
+    <title lang="en">Next: vs @Hull City AFC (Sun 11 Oct @ 14:00)</title>
+    <desc lang="en">Upcoming: Hull City AFC vs Everton FC. Kickoff at 14:00 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260915060000 +0100" stop="20260915080000 +0100" channel="fulham.epl">
-    <title lang="en">Next: vs Manchester United FC (Sun 20 Sep @ 16:30)</title>
-    <desc lang="en">Upcoming: Fulham FC vs Manchester United FC. Kickoff at 16:30 UK on Sun 20 Sep.</desc>
+  <programme start="20260925070000 +0100" stop="20260925090000 +0100" channel="everton.epl">
+    <title lang="en">Next: vs @Hull City AFC (Sun 11 Oct @ 14:00)</title>
+    <desc lang="en">Upcoming: Hull City AFC vs Everton FC. Kickoff at 14:00 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260915080000 +0100" stop="20260915100000 +0100" channel="fulham.epl">
-    <title lang="en">Next: vs Manchester United FC (Sun 20 Sep @ 16:30)</title>
-    <desc lang="en">Upcoming: Fulham FC vs Manchester United FC. Kickoff at 16:30 UK on Sun 20 Sep.</desc>
+  <programme start="20260925090000 +0100" stop="20260925101810 +0100" channel="everton.epl">
+    <title lang="en">Next: vs @Hull City AFC (Sun 11 Oct @ 14:00)</title>
+    <desc lang="en">Upcoming: Hull City AFC vs Everton FC. Kickoff at 14:00 UK on Sun 11 Oct.</desc>
   </programme>
   <programme start="20260915100000 +0100" stop="20260915120000 +0100" channel="fulham.epl">
     <title lang="en">Next: vs Manchester United FC (Sun 20 Sep @ 16:30)</title>
@@ -4896,57 +4844,53 @@
     <title lang="en">Next: vs @Ipswich Town FC (Sat 10 Oct @ 15:00)</title>
     <desc lang="en">Upcoming: Ipswich Town FC vs Fulham FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260924103000 +0100" stop="20260924104250 +0100" channel="fulham.epl">
+  <programme start="20260924103000 +0100" stop="20260924123000 +0100" channel="fulham.epl">
     <title lang="en">Next: vs @Ipswich Town FC (Sat 10 Oct @ 15:00)</title>
     <desc lang="en">Upcoming: Ipswich Town FC vs Fulham FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914100000 +0100" stop="20260914120000 +0100" channel="hullcity.epl">
-    <title lang="en">Next: vs @Newcastle United FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Newcastle United FC vs Hull City AFC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260924123000 +0100" stop="20260924143000 +0100" channel="fulham.epl">
+    <title lang="en">Next: vs @Ipswich Town FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Ipswich Town FC vs Fulham FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914120000 +0100" stop="20260914140000 +0100" channel="hullcity.epl">
-    <title lang="en">Next: vs @Newcastle United FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Newcastle United FC vs Hull City AFC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260924143000 +0100" stop="20260924163000 +0100" channel="fulham.epl">
+    <title lang="en">Next: vs @Ipswich Town FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Ipswich Town FC vs Fulham FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914140000 +0100" stop="20260914160000 +0100" channel="hullcity.epl">
-    <title lang="en">Next: vs @Newcastle United FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Newcastle United FC vs Hull City AFC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260924163000 +0100" stop="20260924183000 +0100" channel="fulham.epl">
+    <title lang="en">Next: vs @Ipswich Town FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Ipswich Town FC vs Fulham FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914160000 +0100" stop="20260914180000 +0100" channel="hullcity.epl">
-    <title lang="en">Next: vs @Newcastle United FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Newcastle United FC vs Hull City AFC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260924183000 +0100" stop="20260924203000 +0100" channel="fulham.epl">
+    <title lang="en">Next: vs @Ipswich Town FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Ipswich Town FC vs Fulham FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914180000 +0100" stop="20260914200000 +0100" channel="hullcity.epl">
-    <title lang="en">Next: vs @Newcastle United FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Newcastle United FC vs Hull City AFC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260924203000 +0100" stop="20260924223000 +0100" channel="fulham.epl">
+    <title lang="en">Next: vs @Ipswich Town FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Ipswich Town FC vs Fulham FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914200000 +0100" stop="20260914220000 +0100" channel="hullcity.epl">
-    <title lang="en">Next: vs @Newcastle United FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Newcastle United FC vs Hull City AFC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260924223000 +0100" stop="20260925003000 +0100" channel="fulham.epl">
+    <title lang="en">Next: vs @Ipswich Town FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Ipswich Town FC vs Fulham FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914220000 +0100" stop="20260915000000 +0100" channel="hullcity.epl">
-    <title lang="en">Next: vs @Newcastle United FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Newcastle United FC vs Hull City AFC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260925003000 +0100" stop="20260925023000 +0100" channel="fulham.epl">
+    <title lang="en">Next: vs @Ipswich Town FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Ipswich Town FC vs Fulham FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260915000000 +0100" stop="20260915020000 +0100" channel="hullcity.epl">
-    <title lang="en">Next: vs @Newcastle United FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Newcastle United FC vs Hull City AFC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260925023000 +0100" stop="20260925043000 +0100" channel="fulham.epl">
+    <title lang="en">Next: vs @Ipswich Town FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Ipswich Town FC vs Fulham FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260915020000 +0100" stop="20260915040000 +0100" channel="hullcity.epl">
-    <title lang="en">Next: vs @Newcastle United FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Newcastle United FC vs Hull City AFC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260925043000 +0100" stop="20260925063000 +0100" channel="fulham.epl">
+    <title lang="en">Next: vs @Ipswich Town FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Ipswich Town FC vs Fulham FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260915040000 +0100" stop="20260915060000 +0100" channel="hullcity.epl">
-    <title lang="en">Next: vs @Newcastle United FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Newcastle United FC vs Hull City AFC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260925063000 +0100" stop="20260925083000 +0100" channel="fulham.epl">
+    <title lang="en">Next: vs @Ipswich Town FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Ipswich Town FC vs Fulham FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260915060000 +0100" stop="20260915080000 +0100" channel="hullcity.epl">
-    <title lang="en">Next: vs @Newcastle United FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Newcastle United FC vs Hull City AFC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
-  </programme>
-  <programme start="20260915080000 +0100" stop="20260915100000 +0100" channel="hullcity.epl">
-    <title lang="en">Next: vs @Newcastle United FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Newcastle United FC vs Hull City AFC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260925083000 +0100" stop="20260925101810 +0100" channel="fulham.epl">
+    <title lang="en">Next: vs @Ipswich Town FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Ipswich Town FC vs Fulham FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
   <programme start="20260915100000 +0100" stop="20260915120000 +0100" channel="hullcity.epl">
     <title lang="en">Next: vs @Newcastle United FC (Sat 19 Sep @ 15:00)</title>
@@ -5380,57 +5324,57 @@
     <title lang="en">Next: vs Everton FC (Sun 11 Oct @ 14:00)</title>
     <desc lang="en">Upcoming: Hull City AFC vs Everton FC. Kickoff at 14:00 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260924090000 +0100" stop="20260924104250 +0100" channel="hullcity.epl">
+  <programme start="20260924090000 +0100" stop="20260924110000 +0100" channel="hullcity.epl">
     <title lang="en">Next: vs Everton FC (Sun 11 Oct @ 14:00)</title>
     <desc lang="en">Upcoming: Hull City AFC vs Everton FC. Kickoff at 14:00 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260914100000 +0100" stop="20260914120000 +0100" channel="ipswichtown.epl">
-    <title lang="en">Next: vs @Everton FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Everton FC vs Ipswich Town FC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260924110000 +0100" stop="20260924130000 +0100" channel="hullcity.epl">
+    <title lang="en">Next: vs Everton FC (Sun 11 Oct @ 14:00)</title>
+    <desc lang="en">Upcoming: Hull City AFC vs Everton FC. Kickoff at 14:00 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260914120000 +0100" stop="20260914140000 +0100" channel="ipswichtown.epl">
-    <title lang="en">Next: vs @Everton FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Everton FC vs Ipswich Town FC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260924130000 +0100" stop="20260924150000 +0100" channel="hullcity.epl">
+    <title lang="en">Next: vs Everton FC (Sun 11 Oct @ 14:00)</title>
+    <desc lang="en">Upcoming: Hull City AFC vs Everton FC. Kickoff at 14:00 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260914140000 +0100" stop="20260914160000 +0100" channel="ipswichtown.epl">
-    <title lang="en">Next: vs @Everton FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Everton FC vs Ipswich Town FC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260924150000 +0100" stop="20260924170000 +0100" channel="hullcity.epl">
+    <title lang="en">Next: vs Everton FC (Sun 11 Oct @ 14:00)</title>
+    <desc lang="en">Upcoming: Hull City AFC vs Everton FC. Kickoff at 14:00 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260914160000 +0100" stop="20260914180000 +0100" channel="ipswichtown.epl">
-    <title lang="en">Next: vs @Everton FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Everton FC vs Ipswich Town FC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260924170000 +0100" stop="20260924190000 +0100" channel="hullcity.epl">
+    <title lang="en">Next: vs Everton FC (Sun 11 Oct @ 14:00)</title>
+    <desc lang="en">Upcoming: Hull City AFC vs Everton FC. Kickoff at 14:00 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260914180000 +0100" stop="20260914200000 +0100" channel="ipswichtown.epl">
-    <title lang="en">Next: vs @Everton FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Everton FC vs Ipswich Town FC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260924190000 +0100" stop="20260924210000 +0100" channel="hullcity.epl">
+    <title lang="en">Next: vs Everton FC (Sun 11 Oct @ 14:00)</title>
+    <desc lang="en">Upcoming: Hull City AFC vs Everton FC. Kickoff at 14:00 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260914200000 +0100" stop="20260914220000 +0100" channel="ipswichtown.epl">
-    <title lang="en">Next: vs @Everton FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Everton FC vs Ipswich Town FC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260924210000 +0100" stop="20260924230000 +0100" channel="hullcity.epl">
+    <title lang="en">Next: vs Everton FC (Sun 11 Oct @ 14:00)</title>
+    <desc lang="en">Upcoming: Hull City AFC vs Everton FC. Kickoff at 14:00 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260914220000 +0100" stop="20260915000000 +0100" channel="ipswichtown.epl">
-    <title lang="en">Next: vs @Everton FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Everton FC vs Ipswich Town FC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260924230000 +0100" stop="20260925010000 +0100" channel="hullcity.epl">
+    <title lang="en">Next: vs Everton FC (Sun 11 Oct @ 14:00)</title>
+    <desc lang="en">Upcoming: Hull City AFC vs Everton FC. Kickoff at 14:00 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260915000000 +0100" stop="20260915020000 +0100" channel="ipswichtown.epl">
-    <title lang="en">Next: vs @Everton FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Everton FC vs Ipswich Town FC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260925010000 +0100" stop="20260925030000 +0100" channel="hullcity.epl">
+    <title lang="en">Next: vs Everton FC (Sun 11 Oct @ 14:00)</title>
+    <desc lang="en">Upcoming: Hull City AFC vs Everton FC. Kickoff at 14:00 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260915020000 +0100" stop="20260915040000 +0100" channel="ipswichtown.epl">
-    <title lang="en">Next: vs @Everton FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Everton FC vs Ipswich Town FC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260925030000 +0100" stop="20260925050000 +0100" channel="hullcity.epl">
+    <title lang="en">Next: vs Everton FC (Sun 11 Oct @ 14:00)</title>
+    <desc lang="en">Upcoming: Hull City AFC vs Everton FC. Kickoff at 14:00 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260915040000 +0100" stop="20260915060000 +0100" channel="ipswichtown.epl">
-    <title lang="en">Next: vs @Everton FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Everton FC vs Ipswich Town FC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260925050000 +0100" stop="20260925070000 +0100" channel="hullcity.epl">
+    <title lang="en">Next: vs Everton FC (Sun 11 Oct @ 14:00)</title>
+    <desc lang="en">Upcoming: Hull City AFC vs Everton FC. Kickoff at 14:00 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260915060000 +0100" stop="20260915080000 +0100" channel="ipswichtown.epl">
-    <title lang="en">Next: vs @Everton FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Everton FC vs Ipswich Town FC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260925070000 +0100" stop="20260925090000 +0100" channel="hullcity.epl">
+    <title lang="en">Next: vs Everton FC (Sun 11 Oct @ 14:00)</title>
+    <desc lang="en">Upcoming: Hull City AFC vs Everton FC. Kickoff at 14:00 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260915080000 +0100" stop="20260915100000 +0100" channel="ipswichtown.epl">
-    <title lang="en">Next: vs @Everton FC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Everton FC vs Ipswich Town FC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260925090000 +0100" stop="20260925101810 +0100" channel="hullcity.epl">
+    <title lang="en">Next: vs Everton FC (Sun 11 Oct @ 14:00)</title>
+    <desc lang="en">Upcoming: Hull City AFC vs Everton FC. Kickoff at 14:00 UK on Sun 11 Oct.</desc>
   </programme>
   <programme start="20260915100000 +0100" stop="20260915120000 +0100" channel="ipswichtown.epl">
     <title lang="en">Next: vs @Everton FC (Sat 19 Sep @ 15:00)</title>
@@ -5864,57 +5808,57 @@
     <title lang="en">Next: vs Fulham FC (Sat 10 Oct @ 15:00)</title>
     <desc lang="en">Upcoming: Ipswich Town FC vs Fulham FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260924090000 +0100" stop="20260924104250 +0100" channel="ipswichtown.epl">
+  <programme start="20260924090000 +0100" stop="20260924110000 +0100" channel="ipswichtown.epl">
     <title lang="en">Next: vs Fulham FC (Sat 10 Oct @ 15:00)</title>
     <desc lang="en">Upcoming: Ipswich Town FC vs Fulham FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914100000 +0100" stop="20260914120000 +0100" channel="leedsunited.epl">
-    <title lang="en">Next: vs Newcastle United FC (Mon 14 Sep @ 20:00)</title>
-    <desc lang="en">Upcoming: Leeds United FC vs Newcastle United FC. Kickoff at 20:00 UK on Mon 14 Sep.</desc>
+  <programme start="20260924110000 +0100" stop="20260924130000 +0100" channel="ipswichtown.epl">
+    <title lang="en">Next: vs Fulham FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Ipswich Town FC vs Fulham FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914120000 +0100" stop="20260914140000 +0100" channel="leedsunited.epl">
-    <title lang="en">Next: vs Newcastle United FC (Mon 14 Sep @ 20:00)</title>
-    <desc lang="en">Upcoming: Leeds United FC vs Newcastle United FC. Kickoff at 20:00 UK on Mon 14 Sep.</desc>
+  <programme start="20260924130000 +0100" stop="20260924150000 +0100" channel="ipswichtown.epl">
+    <title lang="en">Next: vs Fulham FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Ipswich Town FC vs Fulham FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914140000 +0100" stop="20260914160000 +0100" channel="leedsunited.epl">
-    <title lang="en">Next: vs Newcastle United FC (Mon 14 Sep @ 20:00)</title>
-    <desc lang="en">Upcoming: Leeds United FC vs Newcastle United FC. Kickoff at 20:00 UK on Mon 14 Sep.</desc>
+  <programme start="20260924150000 +0100" stop="20260924170000 +0100" channel="ipswichtown.epl">
+    <title lang="en">Next: vs Fulham FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Ipswich Town FC vs Fulham FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914160000 +0100" stop="20260914180000 +0100" channel="leedsunited.epl">
-    <title lang="en">Next: vs Newcastle United FC (Mon 14 Sep @ 20:00)</title>
-    <desc lang="en">Upcoming: Leeds United FC vs Newcastle United FC. Kickoff at 20:00 UK on Mon 14 Sep.</desc>
+  <programme start="20260924170000 +0100" stop="20260924190000 +0100" channel="ipswichtown.epl">
+    <title lang="en">Next: vs Fulham FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Ipswich Town FC vs Fulham FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914180000 +0100" stop="20260914193000 +0100" channel="leedsunited.epl">
-    <title lang="en">Next: vs Newcastle United FC (Mon 14 Sep @ 20:00)</title>
-    <desc lang="en">Upcoming: Leeds United FC vs Newcastle United FC. Kickoff at 20:00 UK on Mon 14 Sep.</desc>
+  <programme start="20260924190000 +0100" stop="20260924210000 +0100" channel="ipswichtown.epl">
+    <title lang="en">Next: vs Fulham FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Ipswich Town FC vs Fulham FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914193000 +0100" stop="20260914220000 +0100" channel="leedsunited.epl">
-    <title lang="en">LIVE: Leeds United FC vs Newcastle United FC</title>
-    <desc lang="en">Premier League Matchday 4 - Kickoff 20:00 UK (Mon 14 Sep).</desc>
+  <programme start="20260924210000 +0100" stop="20260924230000 +0100" channel="ipswichtown.epl">
+    <title lang="en">Next: vs Fulham FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Ipswich Town FC vs Fulham FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914220000 +0100" stop="20260915000000 +0100" channel="leedsunited.epl">
-    <title lang="en">Next: vs Crystal Palace FC (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: Leeds United FC vs Crystal Palace FC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
+  <programme start="20260924230000 +0100" stop="20260925010000 +0100" channel="ipswichtown.epl">
+    <title lang="en">Next: vs Fulham FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Ipswich Town FC vs Fulham FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260915000000 +0100" stop="20260915020000 +0100" channel="leedsunited.epl">
-    <title lang="en">Next: vs Crystal Palace FC (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: Leeds United FC vs Crystal Palace FC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
+  <programme start="20260925010000 +0100" stop="20260925030000 +0100" channel="ipswichtown.epl">
+    <title lang="en">Next: vs Fulham FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Ipswich Town FC vs Fulham FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260915020000 +0100" stop="20260915040000 +0100" channel="leedsunited.epl">
-    <title lang="en">Next: vs Crystal Palace FC (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: Leeds United FC vs Crystal Palace FC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
+  <programme start="20260925030000 +0100" stop="20260925050000 +0100" channel="ipswichtown.epl">
+    <title lang="en">Next: vs Fulham FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Ipswich Town FC vs Fulham FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260915040000 +0100" stop="20260915060000 +0100" channel="leedsunited.epl">
-    <title lang="en">Next: vs Crystal Palace FC (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: Leeds United FC vs Crystal Palace FC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
+  <programme start="20260925050000 +0100" stop="20260925070000 +0100" channel="ipswichtown.epl">
+    <title lang="en">Next: vs Fulham FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Ipswich Town FC vs Fulham FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260915060000 +0100" stop="20260915080000 +0100" channel="leedsunited.epl">
-    <title lang="en">Next: vs Crystal Palace FC (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: Leeds United FC vs Crystal Palace FC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
+  <programme start="20260925070000 +0100" stop="20260925090000 +0100" channel="ipswichtown.epl">
+    <title lang="en">Next: vs Fulham FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Ipswich Town FC vs Fulham FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260915080000 +0100" stop="20260915100000 +0100" channel="leedsunited.epl">
-    <title lang="en">Next: vs Crystal Palace FC (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: Leeds United FC vs Crystal Palace FC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
+  <programme start="20260925090000 +0100" stop="20260925101810 +0100" channel="ipswichtown.epl">
+    <title lang="en">Next: vs Fulham FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Ipswich Town FC vs Fulham FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
   <programme start="20260915100000 +0100" stop="20260915120000 +0100" channel="leedsunited.epl">
     <title lang="en">Next: vs Crystal Palace FC (Sun 20 Sep @ 14:00)</title>
@@ -6348,57 +6292,57 @@
     <title lang="en">Next: vs @Arsenal FC (Sat 10 Oct @ 12:30)</title>
     <desc lang="en">Upcoming: Arsenal FC vs Leeds United FC. Kickoff at 12:30 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260924100000 +0100" stop="20260924104250 +0100" channel="leedsunited.epl">
+  <programme start="20260924100000 +0100" stop="20260924120000 +0100" channel="leedsunited.epl">
     <title lang="en">Next: vs @Arsenal FC (Sat 10 Oct @ 12:30)</title>
     <desc lang="en">Upcoming: Arsenal FC vs Leeds United FC. Kickoff at 12:30 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914100000 +0100" stop="20260914120000 +0100" channel="liverpool.epl">
-    <title lang="en">Next: vs @AFC Bournemouth (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: AFC Bournemouth vs Liverpool FC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
+  <programme start="20260924120000 +0100" stop="20260924140000 +0100" channel="leedsunited.epl">
+    <title lang="en">Next: vs @Arsenal FC (Sat 10 Oct @ 12:30)</title>
+    <desc lang="en">Upcoming: Arsenal FC vs Leeds United FC. Kickoff at 12:30 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914120000 +0100" stop="20260914140000 +0100" channel="liverpool.epl">
-    <title lang="en">Next: vs @AFC Bournemouth (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: AFC Bournemouth vs Liverpool FC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
+  <programme start="20260924140000 +0100" stop="20260924160000 +0100" channel="leedsunited.epl">
+    <title lang="en">Next: vs @Arsenal FC (Sat 10 Oct @ 12:30)</title>
+    <desc lang="en">Upcoming: Arsenal FC vs Leeds United FC. Kickoff at 12:30 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914140000 +0100" stop="20260914160000 +0100" channel="liverpool.epl">
-    <title lang="en">Next: vs @AFC Bournemouth (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: AFC Bournemouth vs Liverpool FC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
+  <programme start="20260924160000 +0100" stop="20260924180000 +0100" channel="leedsunited.epl">
+    <title lang="en">Next: vs @Arsenal FC (Sat 10 Oct @ 12:30)</title>
+    <desc lang="en">Upcoming: Arsenal FC vs Leeds United FC. Kickoff at 12:30 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914160000 +0100" stop="20260914180000 +0100" channel="liverpool.epl">
-    <title lang="en">Next: vs @AFC Bournemouth (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: AFC Bournemouth vs Liverpool FC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
+  <programme start="20260924180000 +0100" stop="20260924200000 +0100" channel="leedsunited.epl">
+    <title lang="en">Next: vs @Arsenal FC (Sat 10 Oct @ 12:30)</title>
+    <desc lang="en">Upcoming: Arsenal FC vs Leeds United FC. Kickoff at 12:30 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914180000 +0100" stop="20260914200000 +0100" channel="liverpool.epl">
-    <title lang="en">Next: vs @AFC Bournemouth (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: AFC Bournemouth vs Liverpool FC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
+  <programme start="20260924200000 +0100" stop="20260924220000 +0100" channel="leedsunited.epl">
+    <title lang="en">Next: vs @Arsenal FC (Sat 10 Oct @ 12:30)</title>
+    <desc lang="en">Upcoming: Arsenal FC vs Leeds United FC. Kickoff at 12:30 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914200000 +0100" stop="20260914220000 +0100" channel="liverpool.epl">
-    <title lang="en">Next: vs @AFC Bournemouth (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: AFC Bournemouth vs Liverpool FC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
+  <programme start="20260924220000 +0100" stop="20260925000000 +0100" channel="leedsunited.epl">
+    <title lang="en">Next: vs @Arsenal FC (Sat 10 Oct @ 12:30)</title>
+    <desc lang="en">Upcoming: Arsenal FC vs Leeds United FC. Kickoff at 12:30 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914220000 +0100" stop="20260915000000 +0100" channel="liverpool.epl">
-    <title lang="en">Next: vs @AFC Bournemouth (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: AFC Bournemouth vs Liverpool FC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
+  <programme start="20260925000000 +0100" stop="20260925020000 +0100" channel="leedsunited.epl">
+    <title lang="en">Next: vs @Arsenal FC (Sat 10 Oct @ 12:30)</title>
+    <desc lang="en">Upcoming: Arsenal FC vs Leeds United FC. Kickoff at 12:30 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260915000000 +0100" stop="20260915020000 +0100" channel="liverpool.epl">
-    <title lang="en">Next: vs @AFC Bournemouth (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: AFC Bournemouth vs Liverpool FC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
+  <programme start="20260925020000 +0100" stop="20260925040000 +0100" channel="leedsunited.epl">
+    <title lang="en">Next: vs @Arsenal FC (Sat 10 Oct @ 12:30)</title>
+    <desc lang="en">Upcoming: Arsenal FC vs Leeds United FC. Kickoff at 12:30 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260915020000 +0100" stop="20260915040000 +0100" channel="liverpool.epl">
-    <title lang="en">Next: vs @AFC Bournemouth (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: AFC Bournemouth vs Liverpool FC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
+  <programme start="20260925040000 +0100" stop="20260925060000 +0100" channel="leedsunited.epl">
+    <title lang="en">Next: vs @Arsenal FC (Sat 10 Oct @ 12:30)</title>
+    <desc lang="en">Upcoming: Arsenal FC vs Leeds United FC. Kickoff at 12:30 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260915040000 +0100" stop="20260915060000 +0100" channel="liverpool.epl">
-    <title lang="en">Next: vs @AFC Bournemouth (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: AFC Bournemouth vs Liverpool FC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
+  <programme start="20260925060000 +0100" stop="20260925080000 +0100" channel="leedsunited.epl">
+    <title lang="en">Next: vs @Arsenal FC (Sat 10 Oct @ 12:30)</title>
+    <desc lang="en">Upcoming: Arsenal FC vs Leeds United FC. Kickoff at 12:30 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260915060000 +0100" stop="20260915080000 +0100" channel="liverpool.epl">
-    <title lang="en">Next: vs @AFC Bournemouth (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: AFC Bournemouth vs Liverpool FC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
+  <programme start="20260925080000 +0100" stop="20260925100000 +0100" channel="leedsunited.epl">
+    <title lang="en">Next: vs @Arsenal FC (Sat 10 Oct @ 12:30)</title>
+    <desc lang="en">Upcoming: Arsenal FC vs Leeds United FC. Kickoff at 12:30 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260915080000 +0100" stop="20260915100000 +0100" channel="liverpool.epl">
-    <title lang="en">Next: vs @AFC Bournemouth (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: AFC Bournemouth vs Liverpool FC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
+  <programme start="20260925100000 +0100" stop="20260925101810 +0100" channel="leedsunited.epl">
+    <title lang="en">Next: vs @Arsenal FC (Sat 10 Oct @ 12:30)</title>
+    <desc lang="en">Upcoming: Arsenal FC vs Leeds United FC. Kickoff at 12:30 UK on Sat 10 Oct.</desc>
   </programme>
   <programme start="20260915100000 +0100" stop="20260915120000 +0100" channel="liverpool.epl">
     <title lang="en">Next: vs @AFC Bournemouth (Sun 20 Sep @ 14:00)</title>
@@ -6832,57 +6776,57 @@
     <title lang="en">Next: vs Manchester City FC (Sun 11 Oct @ 16:30)</title>
     <desc lang="en">Upcoming: Liverpool FC vs Manchester City FC. Kickoff at 16:30 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260924100000 +0100" stop="20260924104250 +0100" channel="liverpool.epl">
+  <programme start="20260924100000 +0100" stop="20260924120000 +0100" channel="liverpool.epl">
     <title lang="en">Next: vs Manchester City FC (Sun 11 Oct @ 16:30)</title>
     <desc lang="en">Upcoming: Liverpool FC vs Manchester City FC. Kickoff at 16:30 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260914100000 +0100" stop="20260914120000 +0100" channel="manchestercity.epl">
-    <title lang="en">Next: vs Sunderland AFC (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: Manchester City FC vs Sunderland AFC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
+  <programme start="20260924120000 +0100" stop="20260924140000 +0100" channel="liverpool.epl">
+    <title lang="en">Next: vs Manchester City FC (Sun 11 Oct @ 16:30)</title>
+    <desc lang="en">Upcoming: Liverpool FC vs Manchester City FC. Kickoff at 16:30 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260914120000 +0100" stop="20260914140000 +0100" channel="manchestercity.epl">
-    <title lang="en">Next: vs Sunderland AFC (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: Manchester City FC vs Sunderland AFC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
+  <programme start="20260924140000 +0100" stop="20260924160000 +0100" channel="liverpool.epl">
+    <title lang="en">Next: vs Manchester City FC (Sun 11 Oct @ 16:30)</title>
+    <desc lang="en">Upcoming: Liverpool FC vs Manchester City FC. Kickoff at 16:30 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260914140000 +0100" stop="20260914160000 +0100" channel="manchestercity.epl">
-    <title lang="en">Next: vs Sunderland AFC (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: Manchester City FC vs Sunderland AFC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
+  <programme start="20260924160000 +0100" stop="20260924180000 +0100" channel="liverpool.epl">
+    <title lang="en">Next: vs Manchester City FC (Sun 11 Oct @ 16:30)</title>
+    <desc lang="en">Upcoming: Liverpool FC vs Manchester City FC. Kickoff at 16:30 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260914160000 +0100" stop="20260914180000 +0100" channel="manchestercity.epl">
-    <title lang="en">Next: vs Sunderland AFC (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: Manchester City FC vs Sunderland AFC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
+  <programme start="20260924180000 +0100" stop="20260924200000 +0100" channel="liverpool.epl">
+    <title lang="en">Next: vs Manchester City FC (Sun 11 Oct @ 16:30)</title>
+    <desc lang="en">Upcoming: Liverpool FC vs Manchester City FC. Kickoff at 16:30 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260914180000 +0100" stop="20260914200000 +0100" channel="manchestercity.epl">
-    <title lang="en">Next: vs Sunderland AFC (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: Manchester City FC vs Sunderland AFC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
+  <programme start="20260924200000 +0100" stop="20260924220000 +0100" channel="liverpool.epl">
+    <title lang="en">Next: vs Manchester City FC (Sun 11 Oct @ 16:30)</title>
+    <desc lang="en">Upcoming: Liverpool FC vs Manchester City FC. Kickoff at 16:30 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260914200000 +0100" stop="20260914220000 +0100" channel="manchestercity.epl">
-    <title lang="en">Next: vs Sunderland AFC (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: Manchester City FC vs Sunderland AFC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
+  <programme start="20260924220000 +0100" stop="20260925000000 +0100" channel="liverpool.epl">
+    <title lang="en">Next: vs Manchester City FC (Sun 11 Oct @ 16:30)</title>
+    <desc lang="en">Upcoming: Liverpool FC vs Manchester City FC. Kickoff at 16:30 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260914220000 +0100" stop="20260915000000 +0100" channel="manchestercity.epl">
-    <title lang="en">Next: vs Sunderland AFC (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: Manchester City FC vs Sunderland AFC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
+  <programme start="20260925000000 +0100" stop="20260925020000 +0100" channel="liverpool.epl">
+    <title lang="en">Next: vs Manchester City FC (Sun 11 Oct @ 16:30)</title>
+    <desc lang="en">Upcoming: Liverpool FC vs Manchester City FC. Kickoff at 16:30 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260915000000 +0100" stop="20260915020000 +0100" channel="manchestercity.epl">
-    <title lang="en">Next: vs Sunderland AFC (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: Manchester City FC vs Sunderland AFC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
+  <programme start="20260925020000 +0100" stop="20260925040000 +0100" channel="liverpool.epl">
+    <title lang="en">Next: vs Manchester City FC (Sun 11 Oct @ 16:30)</title>
+    <desc lang="en">Upcoming: Liverpool FC vs Manchester City FC. Kickoff at 16:30 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260915020000 +0100" stop="20260915040000 +0100" channel="manchestercity.epl">
-    <title lang="en">Next: vs Sunderland AFC (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: Manchester City FC vs Sunderland AFC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
+  <programme start="20260925040000 +0100" stop="20260925060000 +0100" channel="liverpool.epl">
+    <title lang="en">Next: vs Manchester City FC (Sun 11 Oct @ 16:30)</title>
+    <desc lang="en">Upcoming: Liverpool FC vs Manchester City FC. Kickoff at 16:30 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260915040000 +0100" stop="20260915060000 +0100" channel="manchestercity.epl">
-    <title lang="en">Next: vs Sunderland AFC (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: Manchester City FC vs Sunderland AFC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
+  <programme start="20260925060000 +0100" stop="20260925080000 +0100" channel="liverpool.epl">
+    <title lang="en">Next: vs Manchester City FC (Sun 11 Oct @ 16:30)</title>
+    <desc lang="en">Upcoming: Liverpool FC vs Manchester City FC. Kickoff at 16:30 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260915060000 +0100" stop="20260915080000 +0100" channel="manchestercity.epl">
-    <title lang="en">Next: vs Sunderland AFC (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: Manchester City FC vs Sunderland AFC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
+  <programme start="20260925080000 +0100" stop="20260925100000 +0100" channel="liverpool.epl">
+    <title lang="en">Next: vs Manchester City FC (Sun 11 Oct @ 16:30)</title>
+    <desc lang="en">Upcoming: Liverpool FC vs Manchester City FC. Kickoff at 16:30 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260915080000 +0100" stop="20260915100000 +0100" channel="manchestercity.epl">
-    <title lang="en">Next: vs Sunderland AFC (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: Manchester City FC vs Sunderland AFC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
+  <programme start="20260925100000 +0100" stop="20260925101810 +0100" channel="liverpool.epl">
+    <title lang="en">Next: vs Manchester City FC (Sun 11 Oct @ 16:30)</title>
+    <desc lang="en">Upcoming: Liverpool FC vs Manchester City FC. Kickoff at 16:30 UK on Sun 11 Oct.</desc>
   </programme>
   <programme start="20260915100000 +0100" stop="20260915120000 +0100" channel="manchestercity.epl">
     <title lang="en">Next: vs Sunderland AFC (Sun 20 Sep @ 14:00)</title>
@@ -7316,57 +7260,57 @@
     <title lang="en">Next: vs @Liverpool FC (Sun 11 Oct @ 16:30)</title>
     <desc lang="en">Upcoming: Liverpool FC vs Manchester City FC. Kickoff at 16:30 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260924100000 +0100" stop="20260924104250 +0100" channel="manchestercity.epl">
+  <programme start="20260924100000 +0100" stop="20260924120000 +0100" channel="manchestercity.epl">
     <title lang="en">Next: vs @Liverpool FC (Sun 11 Oct @ 16:30)</title>
     <desc lang="en">Upcoming: Liverpool FC vs Manchester City FC. Kickoff at 16:30 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260914100000 +0100" stop="20260914120000 +0100" channel="manchesterunited.epl">
-    <title lang="en">Next: vs @Fulham FC (Sun 20 Sep @ 16:30)</title>
-    <desc lang="en">Upcoming: Fulham FC vs Manchester United FC. Kickoff at 16:30 UK on Sun 20 Sep.</desc>
+  <programme start="20260924120000 +0100" stop="20260924140000 +0100" channel="manchestercity.epl">
+    <title lang="en">Next: vs @Liverpool FC (Sun 11 Oct @ 16:30)</title>
+    <desc lang="en">Upcoming: Liverpool FC vs Manchester City FC. Kickoff at 16:30 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260914120000 +0100" stop="20260914140000 +0100" channel="manchesterunited.epl">
-    <title lang="en">Next: vs @Fulham FC (Sun 20 Sep @ 16:30)</title>
-    <desc lang="en">Upcoming: Fulham FC vs Manchester United FC. Kickoff at 16:30 UK on Sun 20 Sep.</desc>
+  <programme start="20260924140000 +0100" stop="20260924160000 +0100" channel="manchestercity.epl">
+    <title lang="en">Next: vs @Liverpool FC (Sun 11 Oct @ 16:30)</title>
+    <desc lang="en">Upcoming: Liverpool FC vs Manchester City FC. Kickoff at 16:30 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260914140000 +0100" stop="20260914160000 +0100" channel="manchesterunited.epl">
-    <title lang="en">Next: vs @Fulham FC (Sun 20 Sep @ 16:30)</title>
-    <desc lang="en">Upcoming: Fulham FC vs Manchester United FC. Kickoff at 16:30 UK on Sun 20 Sep.</desc>
+  <programme start="20260924160000 +0100" stop="20260924180000 +0100" channel="manchestercity.epl">
+    <title lang="en">Next: vs @Liverpool FC (Sun 11 Oct @ 16:30)</title>
+    <desc lang="en">Upcoming: Liverpool FC vs Manchester City FC. Kickoff at 16:30 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260914160000 +0100" stop="20260914180000 +0100" channel="manchesterunited.epl">
-    <title lang="en">Next: vs @Fulham FC (Sun 20 Sep @ 16:30)</title>
-    <desc lang="en">Upcoming: Fulham FC vs Manchester United FC. Kickoff at 16:30 UK on Sun 20 Sep.</desc>
+  <programme start="20260924180000 +0100" stop="20260924200000 +0100" channel="manchestercity.epl">
+    <title lang="en">Next: vs @Liverpool FC (Sun 11 Oct @ 16:30)</title>
+    <desc lang="en">Upcoming: Liverpool FC vs Manchester City FC. Kickoff at 16:30 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260914180000 +0100" stop="20260914200000 +0100" channel="manchesterunited.epl">
-    <title lang="en">Next: vs @Fulham FC (Sun 20 Sep @ 16:30)</title>
-    <desc lang="en">Upcoming: Fulham FC vs Manchester United FC. Kickoff at 16:30 UK on Sun 20 Sep.</desc>
+  <programme start="20260924200000 +0100" stop="20260924220000 +0100" channel="manchestercity.epl">
+    <title lang="en">Next: vs @Liverpool FC (Sun 11 Oct @ 16:30)</title>
+    <desc lang="en">Upcoming: Liverpool FC vs Manchester City FC. Kickoff at 16:30 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260914200000 +0100" stop="20260914220000 +0100" channel="manchesterunited.epl">
-    <title lang="en">Next: vs @Fulham FC (Sun 20 Sep @ 16:30)</title>
-    <desc lang="en">Upcoming: Fulham FC vs Manchester United FC. Kickoff at 16:30 UK on Sun 20 Sep.</desc>
+  <programme start="20260924220000 +0100" stop="20260925000000 +0100" channel="manchestercity.epl">
+    <title lang="en">Next: vs @Liverpool FC (Sun 11 Oct @ 16:30)</title>
+    <desc lang="en">Upcoming: Liverpool FC vs Manchester City FC. Kickoff at 16:30 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260914220000 +0100" stop="20260915000000 +0100" channel="manchesterunited.epl">
-    <title lang="en">Next: vs @Fulham FC (Sun 20 Sep @ 16:30)</title>
-    <desc lang="en">Upcoming: Fulham FC vs Manchester United FC. Kickoff at 16:30 UK on Sun 20 Sep.</desc>
+  <programme start="20260925000000 +0100" stop="20260925020000 +0100" channel="manchestercity.epl">
+    <title lang="en">Next: vs @Liverpool FC (Sun 11 Oct @ 16:30)</title>
+    <desc lang="en">Upcoming: Liverpool FC vs Manchester City FC. Kickoff at 16:30 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260915000000 +0100" stop="20260915020000 +0100" channel="manchesterunited.epl">
-    <title lang="en">Next: vs @Fulham FC (Sun 20 Sep @ 16:30)</title>
-    <desc lang="en">Upcoming: Fulham FC vs Manchester United FC. Kickoff at 16:30 UK on Sun 20 Sep.</desc>
+  <programme start="20260925020000 +0100" stop="20260925040000 +0100" channel="manchestercity.epl">
+    <title lang="en">Next: vs @Liverpool FC (Sun 11 Oct @ 16:30)</title>
+    <desc lang="en">Upcoming: Liverpool FC vs Manchester City FC. Kickoff at 16:30 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260915020000 +0100" stop="20260915040000 +0100" channel="manchesterunited.epl">
-    <title lang="en">Next: vs @Fulham FC (Sun 20 Sep @ 16:30)</title>
-    <desc lang="en">Upcoming: Fulham FC vs Manchester United FC. Kickoff at 16:30 UK on Sun 20 Sep.</desc>
+  <programme start="20260925040000 +0100" stop="20260925060000 +0100" channel="manchestercity.epl">
+    <title lang="en">Next: vs @Liverpool FC (Sun 11 Oct @ 16:30)</title>
+    <desc lang="en">Upcoming: Liverpool FC vs Manchester City FC. Kickoff at 16:30 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260915040000 +0100" stop="20260915060000 +0100" channel="manchesterunited.epl">
-    <title lang="en">Next: vs @Fulham FC (Sun 20 Sep @ 16:30)</title>
-    <desc lang="en">Upcoming: Fulham FC vs Manchester United FC. Kickoff at 16:30 UK on Sun 20 Sep.</desc>
+  <programme start="20260925060000 +0100" stop="20260925080000 +0100" channel="manchestercity.epl">
+    <title lang="en">Next: vs @Liverpool FC (Sun 11 Oct @ 16:30)</title>
+    <desc lang="en">Upcoming: Liverpool FC vs Manchester City FC. Kickoff at 16:30 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260915060000 +0100" stop="20260915080000 +0100" channel="manchesterunited.epl">
-    <title lang="en">Next: vs @Fulham FC (Sun 20 Sep @ 16:30)</title>
-    <desc lang="en">Upcoming: Fulham FC vs Manchester United FC. Kickoff at 16:30 UK on Sun 20 Sep.</desc>
+  <programme start="20260925080000 +0100" stop="20260925100000 +0100" channel="manchestercity.epl">
+    <title lang="en">Next: vs @Liverpool FC (Sun 11 Oct @ 16:30)</title>
+    <desc lang="en">Upcoming: Liverpool FC vs Manchester City FC. Kickoff at 16:30 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260915080000 +0100" stop="20260915100000 +0100" channel="manchesterunited.epl">
-    <title lang="en">Next: vs @Fulham FC (Sun 20 Sep @ 16:30)</title>
-    <desc lang="en">Upcoming: Fulham FC vs Manchester United FC. Kickoff at 16:30 UK on Sun 20 Sep.</desc>
+  <programme start="20260925100000 +0100" stop="20260925101810 +0100" channel="manchestercity.epl">
+    <title lang="en">Next: vs @Liverpool FC (Sun 11 Oct @ 16:30)</title>
+    <desc lang="en">Upcoming: Liverpool FC vs Manchester City FC. Kickoff at 16:30 UK on Sun 11 Oct.</desc>
   </programme>
   <programme start="20260915100000 +0100" stop="20260915120000 +0100" channel="manchesterunited.epl">
     <title lang="en">Next: vs @Fulham FC (Sun 20 Sep @ 16:30)</title>
@@ -7800,57 +7744,53 @@
     <title lang="en">Next: vs Tottenham Hotspur FC (Sat 10 Oct @ 17:30)</title>
     <desc lang="en">Upcoming: Manchester United FC vs Tottenham Hotspur FC. Kickoff at 17:30 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260924103000 +0100" stop="20260924104250 +0100" channel="manchesterunited.epl">
+  <programme start="20260924103000 +0100" stop="20260924123000 +0100" channel="manchesterunited.epl">
     <title lang="en">Next: vs Tottenham Hotspur FC (Sat 10 Oct @ 17:30)</title>
     <desc lang="en">Upcoming: Manchester United FC vs Tottenham Hotspur FC. Kickoff at 17:30 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914100000 +0100" stop="20260914120000 +0100" channel="newcastleunited.epl">
-    <title lang="en">Next: vs @Leeds United FC (Mon 14 Sep @ 20:00)</title>
-    <desc lang="en">Upcoming: Leeds United FC vs Newcastle United FC. Kickoff at 20:00 UK on Mon 14 Sep.</desc>
+  <programme start="20260924123000 +0100" stop="20260924143000 +0100" channel="manchesterunited.epl">
+    <title lang="en">Next: vs Tottenham Hotspur FC (Sat 10 Oct @ 17:30)</title>
+    <desc lang="en">Upcoming: Manchester United FC vs Tottenham Hotspur FC. Kickoff at 17:30 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914120000 +0100" stop="20260914140000 +0100" channel="newcastleunited.epl">
-    <title lang="en">Next: vs @Leeds United FC (Mon 14 Sep @ 20:00)</title>
-    <desc lang="en">Upcoming: Leeds United FC vs Newcastle United FC. Kickoff at 20:00 UK on Mon 14 Sep.</desc>
+  <programme start="20260924143000 +0100" stop="20260924163000 +0100" channel="manchesterunited.epl">
+    <title lang="en">Next: vs Tottenham Hotspur FC (Sat 10 Oct @ 17:30)</title>
+    <desc lang="en">Upcoming: Manchester United FC vs Tottenham Hotspur FC. Kickoff at 17:30 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914140000 +0100" stop="20260914160000 +0100" channel="newcastleunited.epl">
-    <title lang="en">Next: vs @Leeds United FC (Mon 14 Sep @ 20:00)</title>
-    <desc lang="en">Upcoming: Leeds United FC vs Newcastle United FC. Kickoff at 20:00 UK on Mon 14 Sep.</desc>
+  <programme start="20260924163000 +0100" stop="20260924183000 +0100" channel="manchesterunited.epl">
+    <title lang="en">Next: vs Tottenham Hotspur FC (Sat 10 Oct @ 17:30)</title>
+    <desc lang="en">Upcoming: Manchester United FC vs Tottenham Hotspur FC. Kickoff at 17:30 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914160000 +0100" stop="20260914180000 +0100" channel="newcastleunited.epl">
-    <title lang="en">Next: vs @Leeds United FC (Mon 14 Sep @ 20:00)</title>
-    <desc lang="en">Upcoming: Leeds United FC vs Newcastle United FC. Kickoff at 20:00 UK on Mon 14 Sep.</desc>
+  <programme start="20260924183000 +0100" stop="20260924203000 +0100" channel="manchesterunited.epl">
+    <title lang="en">Next: vs Tottenham Hotspur FC (Sat 10 Oct @ 17:30)</title>
+    <desc lang="en">Upcoming: Manchester United FC vs Tottenham Hotspur FC. Kickoff at 17:30 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914180000 +0100" stop="20260914193000 +0100" channel="newcastleunited.epl">
-    <title lang="en">Next: vs @Leeds United FC (Mon 14 Sep @ 20:00)</title>
-    <desc lang="en">Upcoming: Leeds United FC vs Newcastle United FC. Kickoff at 20:00 UK on Mon 14 Sep.</desc>
+  <programme start="20260924203000 +0100" stop="20260924223000 +0100" channel="manchesterunited.epl">
+    <title lang="en">Next: vs Tottenham Hotspur FC (Sat 10 Oct @ 17:30)</title>
+    <desc lang="en">Upcoming: Manchester United FC vs Tottenham Hotspur FC. Kickoff at 17:30 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914193000 +0100" stop="20260914220000 +0100" channel="newcastleunited.epl">
-    <title lang="en">LIVE: Leeds United FC vs Newcastle United FC</title>
-    <desc lang="en">Premier League Matchday 4 - Kickoff 20:00 UK (Mon 14 Sep).</desc>
+  <programme start="20260924223000 +0100" stop="20260925003000 +0100" channel="manchesterunited.epl">
+    <title lang="en">Next: vs Tottenham Hotspur FC (Sat 10 Oct @ 17:30)</title>
+    <desc lang="en">Upcoming: Manchester United FC vs Tottenham Hotspur FC. Kickoff at 17:30 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914220000 +0100" stop="20260915000000 +0100" channel="newcastleunited.epl">
-    <title lang="en">Next: vs Hull City AFC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Newcastle United FC vs Hull City AFC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260925003000 +0100" stop="20260925023000 +0100" channel="manchesterunited.epl">
+    <title lang="en">Next: vs Tottenham Hotspur FC (Sat 10 Oct @ 17:30)</title>
+    <desc lang="en">Upcoming: Manchester United FC vs Tottenham Hotspur FC. Kickoff at 17:30 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260915000000 +0100" stop="20260915020000 +0100" channel="newcastleunited.epl">
-    <title lang="en">Next: vs Hull City AFC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Newcastle United FC vs Hull City AFC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260925023000 +0100" stop="20260925043000 +0100" channel="manchesterunited.epl">
+    <title lang="en">Next: vs Tottenham Hotspur FC (Sat 10 Oct @ 17:30)</title>
+    <desc lang="en">Upcoming: Manchester United FC vs Tottenham Hotspur FC. Kickoff at 17:30 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260915020000 +0100" stop="20260915040000 +0100" channel="newcastleunited.epl">
-    <title lang="en">Next: vs Hull City AFC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Newcastle United FC vs Hull City AFC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260925043000 +0100" stop="20260925063000 +0100" channel="manchesterunited.epl">
+    <title lang="en">Next: vs Tottenham Hotspur FC (Sat 10 Oct @ 17:30)</title>
+    <desc lang="en">Upcoming: Manchester United FC vs Tottenham Hotspur FC. Kickoff at 17:30 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260915040000 +0100" stop="20260915060000 +0100" channel="newcastleunited.epl">
-    <title lang="en">Next: vs Hull City AFC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Newcastle United FC vs Hull City AFC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260925063000 +0100" stop="20260925083000 +0100" channel="manchesterunited.epl">
+    <title lang="en">Next: vs Tottenham Hotspur FC (Sat 10 Oct @ 17:30)</title>
+    <desc lang="en">Upcoming: Manchester United FC vs Tottenham Hotspur FC. Kickoff at 17:30 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260915060000 +0100" stop="20260915080000 +0100" channel="newcastleunited.epl">
-    <title lang="en">Next: vs Hull City AFC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Newcastle United FC vs Hull City AFC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
-  </programme>
-  <programme start="20260915080000 +0100" stop="20260915100000 +0100" channel="newcastleunited.epl">
-    <title lang="en">Next: vs Hull City AFC (Sat 19 Sep @ 15:00)</title>
-    <desc lang="en">Upcoming: Newcastle United FC vs Hull City AFC. Kickoff at 15:00 UK on Sat 19 Sep.</desc>
+  <programme start="20260925083000 +0100" stop="20260925101810 +0100" channel="manchesterunited.epl">
+    <title lang="en">Next: vs Tottenham Hotspur FC (Sat 10 Oct @ 17:30)</title>
+    <desc lang="en">Upcoming: Manchester United FC vs Tottenham Hotspur FC. Kickoff at 17:30 UK on Sat 10 Oct.</desc>
   </programme>
   <programme start="20260915100000 +0100" stop="20260915120000 +0100" channel="newcastleunited.epl">
     <title lang="en">Next: vs Hull City AFC (Sat 19 Sep @ 15:00)</title>
@@ -8284,57 +8224,57 @@
     <title lang="en">Next: vs @Coventry City FC (Mon 12 Oct @ 20:00)</title>
     <desc lang="en">Upcoming: Coventry City FC vs Newcastle United FC. Kickoff at 20:00 UK on Mon 12 Oct.</desc>
   </programme>
-  <programme start="20260924090000 +0100" stop="20260924104250 +0100" channel="newcastleunited.epl">
+  <programme start="20260924090000 +0100" stop="20260924110000 +0100" channel="newcastleunited.epl">
     <title lang="en">Next: vs @Coventry City FC (Mon 12 Oct @ 20:00)</title>
     <desc lang="en">Upcoming: Coventry City FC vs Newcastle United FC. Kickoff at 20:00 UK on Mon 12 Oct.</desc>
   </programme>
-  <programme start="20260914100000 +0100" stop="20260914120000 +0100" channel="nottinghamforest.epl">
-    <title lang="en">Next: vs Coventry City FC (Sat 19 Sep @ 17:30)</title>
-    <desc lang="en">Upcoming: Nottingham Forest FC vs Coventry City FC. Kickoff at 17:30 UK on Sat 19 Sep.</desc>
+  <programme start="20260924110000 +0100" stop="20260924130000 +0100" channel="newcastleunited.epl">
+    <title lang="en">Next: vs @Coventry City FC (Mon 12 Oct @ 20:00)</title>
+    <desc lang="en">Upcoming: Coventry City FC vs Newcastle United FC. Kickoff at 20:00 UK on Mon 12 Oct.</desc>
   </programme>
-  <programme start="20260914120000 +0100" stop="20260914140000 +0100" channel="nottinghamforest.epl">
-    <title lang="en">Next: vs Coventry City FC (Sat 19 Sep @ 17:30)</title>
-    <desc lang="en">Upcoming: Nottingham Forest FC vs Coventry City FC. Kickoff at 17:30 UK on Sat 19 Sep.</desc>
+  <programme start="20260924130000 +0100" stop="20260924150000 +0100" channel="newcastleunited.epl">
+    <title lang="en">Next: vs @Coventry City FC (Mon 12 Oct @ 20:00)</title>
+    <desc lang="en">Upcoming: Coventry City FC vs Newcastle United FC. Kickoff at 20:00 UK on Mon 12 Oct.</desc>
   </programme>
-  <programme start="20260914140000 +0100" stop="20260914160000 +0100" channel="nottinghamforest.epl">
-    <title lang="en">Next: vs Coventry City FC (Sat 19 Sep @ 17:30)</title>
-    <desc lang="en">Upcoming: Nottingham Forest FC vs Coventry City FC. Kickoff at 17:30 UK on Sat 19 Sep.</desc>
+  <programme start="20260924150000 +0100" stop="20260924170000 +0100" channel="newcastleunited.epl">
+    <title lang="en">Next: vs @Coventry City FC (Mon 12 Oct @ 20:00)</title>
+    <desc lang="en">Upcoming: Coventry City FC vs Newcastle United FC. Kickoff at 20:00 UK on Mon 12 Oct.</desc>
   </programme>
-  <programme start="20260914160000 +0100" stop="20260914180000 +0100" channel="nottinghamforest.epl">
-    <title lang="en">Next: vs Coventry City FC (Sat 19 Sep @ 17:30)</title>
-    <desc lang="en">Upcoming: Nottingham Forest FC vs Coventry City FC. Kickoff at 17:30 UK on Sat 19 Sep.</desc>
+  <programme start="20260924170000 +0100" stop="20260924190000 +0100" channel="newcastleunited.epl">
+    <title lang="en">Next: vs @Coventry City FC (Mon 12 Oct @ 20:00)</title>
+    <desc lang="en">Upcoming: Coventry City FC vs Newcastle United FC. Kickoff at 20:00 UK on Mon 12 Oct.</desc>
   </programme>
-  <programme start="20260914180000 +0100" stop="20260914200000 +0100" channel="nottinghamforest.epl">
-    <title lang="en">Next: vs Coventry City FC (Sat 19 Sep @ 17:30)</title>
-    <desc lang="en">Upcoming: Nottingham Forest FC vs Coventry City FC. Kickoff at 17:30 UK on Sat 19 Sep.</desc>
+  <programme start="20260924190000 +0100" stop="20260924210000 +0100" channel="newcastleunited.epl">
+    <title lang="en">Next: vs @Coventry City FC (Mon 12 Oct @ 20:00)</title>
+    <desc lang="en">Upcoming: Coventry City FC vs Newcastle United FC. Kickoff at 20:00 UK on Mon 12 Oct.</desc>
   </programme>
-  <programme start="20260914200000 +0100" stop="20260914220000 +0100" channel="nottinghamforest.epl">
-    <title lang="en">Next: vs Coventry City FC (Sat 19 Sep @ 17:30)</title>
-    <desc lang="en">Upcoming: Nottingham Forest FC vs Coventry City FC. Kickoff at 17:30 UK on Sat 19 Sep.</desc>
+  <programme start="20260924210000 +0100" stop="20260924230000 +0100" channel="newcastleunited.epl">
+    <title lang="en">Next: vs @Coventry City FC (Mon 12 Oct @ 20:00)</title>
+    <desc lang="en">Upcoming: Coventry City FC vs Newcastle United FC. Kickoff at 20:00 UK on Mon 12 Oct.</desc>
   </programme>
-  <programme start="20260914220000 +0100" stop="20260915000000 +0100" channel="nottinghamforest.epl">
-    <title lang="en">Next: vs Coventry City FC (Sat 19 Sep @ 17:30)</title>
-    <desc lang="en">Upcoming: Nottingham Forest FC vs Coventry City FC. Kickoff at 17:30 UK on Sat 19 Sep.</desc>
+  <programme start="20260924230000 +0100" stop="20260925010000 +0100" channel="newcastleunited.epl">
+    <title lang="en">Next: vs @Coventry City FC (Mon 12 Oct @ 20:00)</title>
+    <desc lang="en">Upcoming: Coventry City FC vs Newcastle United FC. Kickoff at 20:00 UK on Mon 12 Oct.</desc>
   </programme>
-  <programme start="20260915000000 +0100" stop="20260915020000 +0100" channel="nottinghamforest.epl">
-    <title lang="en">Next: vs Coventry City FC (Sat 19 Sep @ 17:30)</title>
-    <desc lang="en">Upcoming: Nottingham Forest FC vs Coventry City FC. Kickoff at 17:30 UK on Sat 19 Sep.</desc>
+  <programme start="20260925010000 +0100" stop="20260925030000 +0100" channel="newcastleunited.epl">
+    <title lang="en">Next: vs @Coventry City FC (Mon 12 Oct @ 20:00)</title>
+    <desc lang="en">Upcoming: Coventry City FC vs Newcastle United FC. Kickoff at 20:00 UK on Mon 12 Oct.</desc>
   </programme>
-  <programme start="20260915020000 +0100" stop="20260915040000 +0100" channel="nottinghamforest.epl">
-    <title lang="en">Next: vs Coventry City FC (Sat 19 Sep @ 17:30)</title>
-    <desc lang="en">Upcoming: Nottingham Forest FC vs Coventry City FC. Kickoff at 17:30 UK on Sat 19 Sep.</desc>
+  <programme start="20260925030000 +0100" stop="20260925050000 +0100" channel="newcastleunited.epl">
+    <title lang="en">Next: vs @Coventry City FC (Mon 12 Oct @ 20:00)</title>
+    <desc lang="en">Upcoming: Coventry City FC vs Newcastle United FC. Kickoff at 20:00 UK on Mon 12 Oct.</desc>
   </programme>
-  <programme start="20260915040000 +0100" stop="20260915060000 +0100" channel="nottinghamforest.epl">
-    <title lang="en">Next: vs Coventry City FC (Sat 19 Sep @ 17:30)</title>
-    <desc lang="en">Upcoming: Nottingham Forest FC vs Coventry City FC. Kickoff at 17:30 UK on Sat 19 Sep.</desc>
+  <programme start="20260925050000 +0100" stop="20260925070000 +0100" channel="newcastleunited.epl">
+    <title lang="en">Next: vs @Coventry City FC (Mon 12 Oct @ 20:00)</title>
+    <desc lang="en">Upcoming: Coventry City FC vs Newcastle United FC. Kickoff at 20:00 UK on Mon 12 Oct.</desc>
   </programme>
-  <programme start="20260915060000 +0100" stop="20260915080000 +0100" channel="nottinghamforest.epl">
-    <title lang="en">Next: vs Coventry City FC (Sat 19 Sep @ 17:30)</title>
-    <desc lang="en">Upcoming: Nottingham Forest FC vs Coventry City FC. Kickoff at 17:30 UK on Sat 19 Sep.</desc>
+  <programme start="20260925070000 +0100" stop="20260925090000 +0100" channel="newcastleunited.epl">
+    <title lang="en">Next: vs @Coventry City FC (Mon 12 Oct @ 20:00)</title>
+    <desc lang="en">Upcoming: Coventry City FC vs Newcastle United FC. Kickoff at 20:00 UK on Mon 12 Oct.</desc>
   </programme>
-  <programme start="20260915080000 +0100" stop="20260915100000 +0100" channel="nottinghamforest.epl">
-    <title lang="en">Next: vs Coventry City FC (Sat 19 Sep @ 17:30)</title>
-    <desc lang="en">Upcoming: Nottingham Forest FC vs Coventry City FC. Kickoff at 17:30 UK on Sat 19 Sep.</desc>
+  <programme start="20260925090000 +0100" stop="20260925101810 +0100" channel="newcastleunited.epl">
+    <title lang="en">Next: vs @Coventry City FC (Mon 12 Oct @ 20:00)</title>
+    <desc lang="en">Upcoming: Coventry City FC vs Newcastle United FC. Kickoff at 20:00 UK on Mon 12 Oct.</desc>
   </programme>
   <programme start="20260915100000 +0100" stop="20260915120000 +0100" channel="nottinghamforest.epl">
     <title lang="en">Next: vs Coventry City FC (Sat 19 Sep @ 17:30)</title>
@@ -8768,57 +8708,57 @@
     <title lang="en">Next: vs @Crystal Palace FC (Sun 11 Oct @ 14:00)</title>
     <desc lang="en">Upcoming: Crystal Palace FC vs Nottingham Forest FC. Kickoff at 14:00 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260924093000 +0100" stop="20260924104250 +0100" channel="nottinghamforest.epl">
+  <programme start="20260924093000 +0100" stop="20260924113000 +0100" channel="nottinghamforest.epl">
     <title lang="en">Next: vs @Crystal Palace FC (Sun 11 Oct @ 14:00)</title>
     <desc lang="en">Upcoming: Crystal Palace FC vs Nottingham Forest FC. Kickoff at 14:00 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260914100000 +0100" stop="20260914120000 +0100" channel="sunderland.epl">
-    <title lang="en">Next: vs @Manchester City FC (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: Manchester City FC vs Sunderland AFC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
+  <programme start="20260924113000 +0100" stop="20260924133000 +0100" channel="nottinghamforest.epl">
+    <title lang="en">Next: vs @Crystal Palace FC (Sun 11 Oct @ 14:00)</title>
+    <desc lang="en">Upcoming: Crystal Palace FC vs Nottingham Forest FC. Kickoff at 14:00 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260914120000 +0100" stop="20260914140000 +0100" channel="sunderland.epl">
-    <title lang="en">Next: vs @Manchester City FC (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: Manchester City FC vs Sunderland AFC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
+  <programme start="20260924133000 +0100" stop="20260924153000 +0100" channel="nottinghamforest.epl">
+    <title lang="en">Next: vs @Crystal Palace FC (Sun 11 Oct @ 14:00)</title>
+    <desc lang="en">Upcoming: Crystal Palace FC vs Nottingham Forest FC. Kickoff at 14:00 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260914140000 +0100" stop="20260914160000 +0100" channel="sunderland.epl">
-    <title lang="en">Next: vs @Manchester City FC (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: Manchester City FC vs Sunderland AFC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
+  <programme start="20260924153000 +0100" stop="20260924173000 +0100" channel="nottinghamforest.epl">
+    <title lang="en">Next: vs @Crystal Palace FC (Sun 11 Oct @ 14:00)</title>
+    <desc lang="en">Upcoming: Crystal Palace FC vs Nottingham Forest FC. Kickoff at 14:00 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260914160000 +0100" stop="20260914180000 +0100" channel="sunderland.epl">
-    <title lang="en">Next: vs @Manchester City FC (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: Manchester City FC vs Sunderland AFC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
+  <programme start="20260924173000 +0100" stop="20260924193000 +0100" channel="nottinghamforest.epl">
+    <title lang="en">Next: vs @Crystal Palace FC (Sun 11 Oct @ 14:00)</title>
+    <desc lang="en">Upcoming: Crystal Palace FC vs Nottingham Forest FC. Kickoff at 14:00 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260914180000 +0100" stop="20260914200000 +0100" channel="sunderland.epl">
-    <title lang="en">Next: vs @Manchester City FC (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: Manchester City FC vs Sunderland AFC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
+  <programme start="20260924193000 +0100" stop="20260924213000 +0100" channel="nottinghamforest.epl">
+    <title lang="en">Next: vs @Crystal Palace FC (Sun 11 Oct @ 14:00)</title>
+    <desc lang="en">Upcoming: Crystal Palace FC vs Nottingham Forest FC. Kickoff at 14:00 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260914200000 +0100" stop="20260914220000 +0100" channel="sunderland.epl">
-    <title lang="en">Next: vs @Manchester City FC (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: Manchester City FC vs Sunderland AFC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
+  <programme start="20260924213000 +0100" stop="20260924233000 +0100" channel="nottinghamforest.epl">
+    <title lang="en">Next: vs @Crystal Palace FC (Sun 11 Oct @ 14:00)</title>
+    <desc lang="en">Upcoming: Crystal Palace FC vs Nottingham Forest FC. Kickoff at 14:00 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260914220000 +0100" stop="20260915000000 +0100" channel="sunderland.epl">
-    <title lang="en">Next: vs @Manchester City FC (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: Manchester City FC vs Sunderland AFC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
+  <programme start="20260924233000 +0100" stop="20260925013000 +0100" channel="nottinghamforest.epl">
+    <title lang="en">Next: vs @Crystal Palace FC (Sun 11 Oct @ 14:00)</title>
+    <desc lang="en">Upcoming: Crystal Palace FC vs Nottingham Forest FC. Kickoff at 14:00 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260915000000 +0100" stop="20260915020000 +0100" channel="sunderland.epl">
-    <title lang="en">Next: vs @Manchester City FC (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: Manchester City FC vs Sunderland AFC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
+  <programme start="20260925013000 +0100" stop="20260925033000 +0100" channel="nottinghamforest.epl">
+    <title lang="en">Next: vs @Crystal Palace FC (Sun 11 Oct @ 14:00)</title>
+    <desc lang="en">Upcoming: Crystal Palace FC vs Nottingham Forest FC. Kickoff at 14:00 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260915020000 +0100" stop="20260915040000 +0100" channel="sunderland.epl">
-    <title lang="en">Next: vs @Manchester City FC (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: Manchester City FC vs Sunderland AFC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
+  <programme start="20260925033000 +0100" stop="20260925053000 +0100" channel="nottinghamforest.epl">
+    <title lang="en">Next: vs @Crystal Palace FC (Sun 11 Oct @ 14:00)</title>
+    <desc lang="en">Upcoming: Crystal Palace FC vs Nottingham Forest FC. Kickoff at 14:00 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260915040000 +0100" stop="20260915060000 +0100" channel="sunderland.epl">
-    <title lang="en">Next: vs @Manchester City FC (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: Manchester City FC vs Sunderland AFC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
+  <programme start="20260925053000 +0100" stop="20260925073000 +0100" channel="nottinghamforest.epl">
+    <title lang="en">Next: vs @Crystal Palace FC (Sun 11 Oct @ 14:00)</title>
+    <desc lang="en">Upcoming: Crystal Palace FC vs Nottingham Forest FC. Kickoff at 14:00 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260915060000 +0100" stop="20260915080000 +0100" channel="sunderland.epl">
-    <title lang="en">Next: vs @Manchester City FC (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: Manchester City FC vs Sunderland AFC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
+  <programme start="20260925073000 +0100" stop="20260925093000 +0100" channel="nottinghamforest.epl">
+    <title lang="en">Next: vs @Crystal Palace FC (Sun 11 Oct @ 14:00)</title>
+    <desc lang="en">Upcoming: Crystal Palace FC vs Nottingham Forest FC. Kickoff at 14:00 UK on Sun 11 Oct.</desc>
   </programme>
-  <programme start="20260915080000 +0100" stop="20260915100000 +0100" channel="sunderland.epl">
-    <title lang="en">Next: vs @Manchester City FC (Sun 20 Sep @ 14:00)</title>
-    <desc lang="en">Upcoming: Manchester City FC vs Sunderland AFC. Kickoff at 14:00 UK on Sun 20 Sep.</desc>
+  <programme start="20260925093000 +0100" stop="20260925101810 +0100" channel="nottinghamforest.epl">
+    <title lang="en">Next: vs @Crystal Palace FC (Sun 11 Oct @ 14:00)</title>
+    <desc lang="en">Upcoming: Crystal Palace FC vs Nottingham Forest FC. Kickoff at 14:00 UK on Sun 11 Oct.</desc>
   </programme>
   <programme start="20260915100000 +0100" stop="20260915120000 +0100" channel="sunderland.epl">
     <title lang="en">Next: vs @Manchester City FC (Sun 20 Sep @ 14:00)</title>
@@ -9252,57 +9192,57 @@
     <title lang="en">Next: vs Brighton &amp; Hove Albion FC (Sat 10 Oct @ 15:00)</title>
     <desc lang="en">Upcoming: Sunderland AFC vs Brighton &amp; Hove Albion FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260924100000 +0100" stop="20260924104250 +0100" channel="sunderland.epl">
+  <programme start="20260924100000 +0100" stop="20260924120000 +0100" channel="sunderland.epl">
     <title lang="en">Next: vs Brighton &amp; Hove Albion FC (Sat 10 Oct @ 15:00)</title>
     <desc lang="en">Upcoming: Sunderland AFC vs Brighton &amp; Hove Albion FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914100000 +0100" stop="20260914120000 +0100" channel="tottenhamhotspur.epl">
-    <title lang="en">Next: vs Aston Villa FC (Sat 19 Sep @ 12:30)</title>
-    <desc lang="en">Upcoming: Tottenham Hotspur FC vs Aston Villa FC. Kickoff at 12:30 UK on Sat 19 Sep.</desc>
+  <programme start="20260924120000 +0100" stop="20260924140000 +0100" channel="sunderland.epl">
+    <title lang="en">Next: vs Brighton &amp; Hove Albion FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Sunderland AFC vs Brighton &amp; Hove Albion FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914120000 +0100" stop="20260914140000 +0100" channel="tottenhamhotspur.epl">
-    <title lang="en">Next: vs Aston Villa FC (Sat 19 Sep @ 12:30)</title>
-    <desc lang="en">Upcoming: Tottenham Hotspur FC vs Aston Villa FC. Kickoff at 12:30 UK on Sat 19 Sep.</desc>
+  <programme start="20260924140000 +0100" stop="20260924160000 +0100" channel="sunderland.epl">
+    <title lang="en">Next: vs Brighton &amp; Hove Albion FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Sunderland AFC vs Brighton &amp; Hove Albion FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914140000 +0100" stop="20260914160000 +0100" channel="tottenhamhotspur.epl">
-    <title lang="en">Next: vs Aston Villa FC (Sat 19 Sep @ 12:30)</title>
-    <desc lang="en">Upcoming: Tottenham Hotspur FC vs Aston Villa FC. Kickoff at 12:30 UK on Sat 19 Sep.</desc>
+  <programme start="20260924160000 +0100" stop="20260924180000 +0100" channel="sunderland.epl">
+    <title lang="en">Next: vs Brighton &amp; Hove Albion FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Sunderland AFC vs Brighton &amp; Hove Albion FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914160000 +0100" stop="20260914180000 +0100" channel="tottenhamhotspur.epl">
-    <title lang="en">Next: vs Aston Villa FC (Sat 19 Sep @ 12:30)</title>
-    <desc lang="en">Upcoming: Tottenham Hotspur FC vs Aston Villa FC. Kickoff at 12:30 UK on Sat 19 Sep.</desc>
+  <programme start="20260924180000 +0100" stop="20260924200000 +0100" channel="sunderland.epl">
+    <title lang="en">Next: vs Brighton &amp; Hove Albion FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Sunderland AFC vs Brighton &amp; Hove Albion FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914180000 +0100" stop="20260914200000 +0100" channel="tottenhamhotspur.epl">
-    <title lang="en">Next: vs Aston Villa FC (Sat 19 Sep @ 12:30)</title>
-    <desc lang="en">Upcoming: Tottenham Hotspur FC vs Aston Villa FC. Kickoff at 12:30 UK on Sat 19 Sep.</desc>
+  <programme start="20260924200000 +0100" stop="20260924220000 +0100" channel="sunderland.epl">
+    <title lang="en">Next: vs Brighton &amp; Hove Albion FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Sunderland AFC vs Brighton &amp; Hove Albion FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914200000 +0100" stop="20260914220000 +0100" channel="tottenhamhotspur.epl">
-    <title lang="en">Next: vs Aston Villa FC (Sat 19 Sep @ 12:30)</title>
-    <desc lang="en">Upcoming: Tottenham Hotspur FC vs Aston Villa FC. Kickoff at 12:30 UK on Sat 19 Sep.</desc>
+  <programme start="20260924220000 +0100" stop="20260925000000 +0100" channel="sunderland.epl">
+    <title lang="en">Next: vs Brighton &amp; Hove Albion FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Sunderland AFC vs Brighton &amp; Hove Albion FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260914220000 +0100" stop="20260915000000 +0100" channel="tottenhamhotspur.epl">
-    <title lang="en">Next: vs Aston Villa FC (Sat 19 Sep @ 12:30)</title>
-    <desc lang="en">Upcoming: Tottenham Hotspur FC vs Aston Villa FC. Kickoff at 12:30 UK on Sat 19 Sep.</desc>
+  <programme start="20260925000000 +0100" stop="20260925020000 +0100" channel="sunderland.epl">
+    <title lang="en">Next: vs Brighton &amp; Hove Albion FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Sunderland AFC vs Brighton &amp; Hove Albion FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260915000000 +0100" stop="20260915020000 +0100" channel="tottenhamhotspur.epl">
-    <title lang="en">Next: vs Aston Villa FC (Sat 19 Sep @ 12:30)</title>
-    <desc lang="en">Upcoming: Tottenham Hotspur FC vs Aston Villa FC. Kickoff at 12:30 UK on Sat 19 Sep.</desc>
+  <programme start="20260925020000 +0100" stop="20260925040000 +0100" channel="sunderland.epl">
+    <title lang="en">Next: vs Brighton &amp; Hove Albion FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Sunderland AFC vs Brighton &amp; Hove Albion FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260915020000 +0100" stop="20260915040000 +0100" channel="tottenhamhotspur.epl">
-    <title lang="en">Next: vs Aston Villa FC (Sat 19 Sep @ 12:30)</title>
-    <desc lang="en">Upcoming: Tottenham Hotspur FC vs Aston Villa FC. Kickoff at 12:30 UK on Sat 19 Sep.</desc>
+  <programme start="20260925040000 +0100" stop="20260925060000 +0100" channel="sunderland.epl">
+    <title lang="en">Next: vs Brighton &amp; Hove Albion FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Sunderland AFC vs Brighton &amp; Hove Albion FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260915040000 +0100" stop="20260915060000 +0100" channel="tottenhamhotspur.epl">
-    <title lang="en">Next: vs Aston Villa FC (Sat 19 Sep @ 12:30)</title>
-    <desc lang="en">Upcoming: Tottenham Hotspur FC vs Aston Villa FC. Kickoff at 12:30 UK on Sat 19 Sep.</desc>
+  <programme start="20260925060000 +0100" stop="20260925080000 +0100" channel="sunderland.epl">
+    <title lang="en">Next: vs Brighton &amp; Hove Albion FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Sunderland AFC vs Brighton &amp; Hove Albion FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260915060000 +0100" stop="20260915080000 +0100" channel="tottenhamhotspur.epl">
-    <title lang="en">Next: vs Aston Villa FC (Sat 19 Sep @ 12:30)</title>
-    <desc lang="en">Upcoming: Tottenham Hotspur FC vs Aston Villa FC. Kickoff at 12:30 UK on Sat 19 Sep.</desc>
+  <programme start="20260925080000 +0100" stop="20260925100000 +0100" channel="sunderland.epl">
+    <title lang="en">Next: vs Brighton &amp; Hove Albion FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Sunderland AFC vs Brighton &amp; Hove Albion FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260915080000 +0100" stop="20260915100000 +0100" channel="tottenhamhotspur.epl">
-    <title lang="en">Next: vs Aston Villa FC (Sat 19 Sep @ 12:30)</title>
-    <desc lang="en">Upcoming: Tottenham Hotspur FC vs Aston Villa FC. Kickoff at 12:30 UK on Sat 19 Sep.</desc>
+  <programme start="20260925100000 +0100" stop="20260925101810 +0100" channel="sunderland.epl">
+    <title lang="en">Next: vs Brighton &amp; Hove Albion FC (Sat 10 Oct @ 15:00)</title>
+    <desc lang="en">Upcoming: Sunderland AFC vs Brighton &amp; Hove Albion FC. Kickoff at 15:00 UK on Sat 10 Oct.</desc>
   </programme>
   <programme start="20260915100000 +0100" stop="20260915120000 +0100" channel="tottenhamhotspur.epl">
     <title lang="en">Next: vs Aston Villa FC (Sat 19 Sep @ 12:30)</title>
@@ -9736,7 +9676,51 @@
     <title lang="en">Next: vs @Manchester United FC (Sat 10 Oct @ 17:30)</title>
     <desc lang="en">Upcoming: Manchester United FC vs Tottenham Hotspur FC. Kickoff at 17:30 UK on Sat 10 Oct.</desc>
   </programme>
-  <programme start="20260924103000 +0100" stop="20260924104250 +0100" channel="tottenhamhotspur.epl">
+  <programme start="20260924103000 +0100" stop="20260924123000 +0100" channel="tottenhamhotspur.epl">
+    <title lang="en">Next: vs @Manchester United FC (Sat 10 Oct @ 17:30)</title>
+    <desc lang="en">Upcoming: Manchester United FC vs Tottenham Hotspur FC. Kickoff at 17:30 UK on Sat 10 Oct.</desc>
+  </programme>
+  <programme start="20260924123000 +0100" stop="20260924143000 +0100" channel="tottenhamhotspur.epl">
+    <title lang="en">Next: vs @Manchester United FC (Sat 10 Oct @ 17:30)</title>
+    <desc lang="en">Upcoming: Manchester United FC vs Tottenham Hotspur FC. Kickoff at 17:30 UK on Sat 10 Oct.</desc>
+  </programme>
+  <programme start="20260924143000 +0100" stop="20260924163000 +0100" channel="tottenhamhotspur.epl">
+    <title lang="en">Next: vs @Manchester United FC (Sat 10 Oct @ 17:30)</title>
+    <desc lang="en">Upcoming: Manchester United FC vs Tottenham Hotspur FC. Kickoff at 17:30 UK on Sat 10 Oct.</desc>
+  </programme>
+  <programme start="20260924163000 +0100" stop="20260924183000 +0100" channel="tottenhamhotspur.epl">
+    <title lang="en">Next: vs @Manchester United FC (Sat 10 Oct @ 17:30)</title>
+    <desc lang="en">Upcoming: Manchester United FC vs Tottenham Hotspur FC. Kickoff at 17:30 UK on Sat 10 Oct.</desc>
+  </programme>
+  <programme start="20260924183000 +0100" stop="20260924203000 +0100" channel="tottenhamhotspur.epl">
+    <title lang="en">Next: vs @Manchester United FC (Sat 10 Oct @ 17:30)</title>
+    <desc lang="en">Upcoming: Manchester United FC vs Tottenham Hotspur FC. Kickoff at 17:30 UK on Sat 10 Oct.</desc>
+  </programme>
+  <programme start="20260924203000 +0100" stop="20260924223000 +0100" channel="tottenhamhotspur.epl">
+    <title lang="en">Next: vs @Manchester United FC (Sat 10 Oct @ 17:30)</title>
+    <desc lang="en">Upcoming: Manchester United FC vs Tottenham Hotspur FC. Kickoff at 17:30 UK on Sat 10 Oct.</desc>
+  </programme>
+  <programme start="20260924223000 +0100" stop="20260925003000 +0100" channel="tottenhamhotspur.epl">
+    <title lang="en">Next: vs @Manchester United FC (Sat 10 Oct @ 17:30)</title>
+    <desc lang="en">Upcoming: Manchester United FC vs Tottenham Hotspur FC. Kickoff at 17:30 UK on Sat 10 Oct.</desc>
+  </programme>
+  <programme start="20260925003000 +0100" stop="20260925023000 +0100" channel="tottenhamhotspur.epl">
+    <title lang="en">Next: vs @Manchester United FC (Sat 10 Oct @ 17:30)</title>
+    <desc lang="en">Upcoming: Manchester United FC vs Tottenham Hotspur FC. Kickoff at 17:30 UK on Sat 10 Oct.</desc>
+  </programme>
+  <programme start="20260925023000 +0100" stop="20260925043000 +0100" channel="tottenhamhotspur.epl">
+    <title lang="en">Next: vs @Manchester United FC (Sat 10 Oct @ 17:30)</title>
+    <desc lang="en">Upcoming: Manchester United FC vs Tottenham Hotspur FC. Kickoff at 17:30 UK on Sat 10 Oct.</desc>
+  </programme>
+  <programme start="20260925043000 +0100" stop="20260925063000 +0100" channel="tottenhamhotspur.epl">
+    <title lang="en">Next: vs @Manchester United FC (Sat 10 Oct @ 17:30)</title>
+    <desc lang="en">Upcoming: Manchester United FC vs Tottenham Hotspur FC. Kickoff at 17:30 UK on Sat 10 Oct.</desc>
+  </programme>
+  <programme start="20260925063000 +0100" stop="20260925083000 +0100" channel="tottenhamhotspur.epl">
+    <title lang="en">Next: vs @Manchester United FC (Sat 10 Oct @ 17:30)</title>
+    <desc lang="en">Upcoming: Manchester United FC vs Tottenham Hotspur FC. Kickoff at 17:30 UK on Sat 10 Oct.</desc>
+  </programme>
+  <programme start="20260925083000 +0100" stop="20260925101810 +0100" channel="tottenhamhotspur.epl">
     <title lang="en">Next: vs @Manchester United FC (Sat 10 Oct @ 17:30)</title>
     <desc lang="en">Upcoming: Manchester United FC vs Tottenham Hotspur FC. Kickoff at 17:30 UK on Sat 10 Oct.</desc>
   </programme>
